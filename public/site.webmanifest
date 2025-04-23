@@ -1,0 +1,26 @@
+{
+  "name": "ASUH On The Move",
+  "short_name": "ASUH",
+  "description": "Professional childcare and nanny services in Brunei",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#E7ADAE",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "32x32",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["lifestyle", "family", "education", "childcare", "nanny", "babysitting", "child care", "professional nanny", "experienced nannies", "trained childcare providers", "family childcare", "in-home childcare", "child development", "nanny agency Brunei", "childcare solutions", "reliable nannies", "trusted childcare", "professional babysitting", "childcare services Brunei"],
+  "lang": "en-US",
+  "dir": "ltr",
+  "prefer_related_applications": false
+} 
