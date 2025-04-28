@@ -13,9 +13,11 @@ export default function ShareExperience() {
           our nannies, let us know.
         </p>
         <Link 
-          href="/submit-testimonial"
+          href="https://linktr.ee/AsuhOnTheMove.com"
           className="bg-[#F5B7B6] hover:bg-[#f3a3a2] transition-colors duration-200 text-gray-800 px-4 md:px-6 py-2 md:py-3 rounded-full font-medium text-[14px] md:text-base"
           aria-label="Submit your testimonial"
+          target="_blank"
+          rel="noopener noreferrer"
         >
           Submit Your Testimonial
         </Link>

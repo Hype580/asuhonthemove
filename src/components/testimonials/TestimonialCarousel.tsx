@@ -15,16 +15,14 @@ const testimonials: Testimonial[] = [
     id: 2,
     name: 'Happy mom from Rimba', 
     title: 'Calm and Adaptable Childcare',
-    content: 'Alhamdulillah, thanks to your nanny, I was able to move around without worrying too much about my baby. I did not have to give a lot of instructions, and the nanny remained calm at all times while handling my baby. We were honestly quite impressed with how well she adapted. I would love to book the same nanny again for another wedding event on the 4th!',
-    image: '/images/testimonial-2.webp'
+    content: 'Alhamdulillah, thanks to your nanny, I was able to move around without worrying too much about my baby. I did not have to give a lot of instructions, and the nanny remained calm at all times while handling my baby. We were honestly quite impressed with how well she adapted. I would love to book the same nanny again for another wedding event on the 4th!'
   },
-  // {
-  //   id: 3,
-  //   name: 'Maria C.',
-  //   title: 'Flexible and Reliable',
-  //   content: 'As a working mother, I needed flexible childcare that I could rely on. ASUH delivered exactly that, with caring and experienced nannies available when we need them.',
-  //   image: '/images/testimonial-3.webp'
-  // }
+  {
+    id: 3,
+    name: 'A mother of three children',
+    title: 'Flexible and Reliable',
+    content: "I can't even remember the last time my husband and I went to the cinema for a movie date. Thank you ASUH for making this kind of service available in Brunei."
+  }
 ];
 
 export default function TestimonialCarousel() {
