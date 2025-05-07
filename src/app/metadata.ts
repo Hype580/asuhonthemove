@@ -9,25 +9,24 @@ export const baseMetadata: Metadata = {
   },
   description: siteConfig.description,
   keywords: [
-    'childcare',
-    'nanny services',
-    'babysitting',
-    'child care provider',
-    'professional nanny',
-    'ASUH On The Move',
-    'Brunei childcare',
     'Brunei nanny',
+    'nanny Brunei',
+    'Brunei childcare',
+    'nanny agency Brunei',
+    'professional nanny Brunei',
+    'childcare services Brunei',
+    'babysitting Brunei',
+    'ASUH On The Move',
     'experienced nannies',
     'trained childcare providers',
     'family childcare',
     'in-home childcare',
     'child development',
-    'nanny agency Brunei',
     'childcare solutions',
     'reliable nannies',
     'trusted childcare',
     'professional babysitting',
-    'childcare services Brunei'
+    'child care provider'
   ],
   authors: [
     {

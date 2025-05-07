@@ -4,18 +4,18 @@ import { Poppins } from 'next/font/google';
 import { cn } from '@/lib/utils';
 import Navbar from '@/components/Navbar';
 import Script from 'next/script';
-
+import NeedHelp from './NeedHelp';
 const poppins = Poppins({
   subsets: ['latin'],
   weight: ['300', '400', '500', '600'],
 });
 
 export const metadata: Metadata = {
-  title: 'Contact Us | ASUH On The Move',
-  description: 'Get in touch with ASUH On The Move for professional childcare services in Brunei. We connect you with trained nannies who provide safe and loving childcare.',
+  title: 'Contact Us | ASUH On The Move - Brunei Nanny Services',
+  description: 'Contact ASUH On The Move for professional nanny services in Brunei. We connect Brunei families with trained nannies who provide safe and quality childcare.',
   openGraph: {
-    title: 'Contact Us | ASUH On The Move',
-    description: 'Get in touch with ASUH On The Move for professional childcare services in Brunei. We connect you with trained nannies who provide safe and loving childcare.',
+    title: 'Contact Us | ASUH On The Move - Brunei Nanny Services',
+    description: 'Contact ASUH On The Move for professional nanny services in Brunei. We connect Brunei families with trained nannies who provide safe and quality childcare.',
     url: 'https://asuhonthemove.com/contact',
     siteName: 'ASUH On The Move',
     images: [
@@ -23,7 +23,7 @@ export const metadata: Metadata = {
         url: '/nanny_contact.png',
         width: 600,
         height: 650,
-        alt: 'ASUH On The Move Contact',
+        alt: 'ASUH On The Move Contact - Brunei Nanny Services',
       },
     ],
     locale: 'en_US',
@@ -31,10 +31,11 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Contact Us | ASUH On The Move',
-    description: 'Get in touch with ASUH On The Move for professional childcare services in Brunei.',
+    title: 'Contact Us | ASUH On The Move - Brunei Nanny Services',
+    description: 'Contact ASUH On The Move for professional nanny services in Brunei.',
     images: ['/nanny_contact.png'],
   },
+  keywords: ['Brunei nanny contact', 'nanny Brunei booking', 'hire nanny Brunei', 'contact nanny service Brunei'],
 };
 
 export default function Contact() {
@@ -50,16 +51,31 @@ export default function Contact() {
             mainEntity: {
               '@type': 'Organization',
               name: 'ASUH On The Move',
+              description: 'Professional nanny services in Brunei',
               contactPoint: {
                 '@type': 'ContactPoint',
                 telephone: '+673 819 7773',
                 contactType: 'customer service',
                 email: 'contact@asuhonthemove.com',
-                areaServed: 'Brunei',
+                areaServed: {
+                  '@type': 'Country',
+                  name: 'Brunei'
+                },
                 availableLanguage: 'English',
+                contactOption: 'TollFree',
+                productSupported: 'Nanny Services in Brunei'
               },
+              makesOffer: {
+                '@type': 'Offer',
+                itemOffered: {
+                  '@type': 'Service',
+                  name: 'Professional Nanny Services in Brunei',
+                  description: 'Connect with our experienced nannies in Brunei for top-quality childcare'
+                }
+              }
             },
             url: 'https://asuhonthemove.com/contact',
+            keywords: 'Brunei nanny, nanny Brunei, contact nanny service, hire nanny in Brunei'
           })
         }}
       />
@@ -95,7 +111,7 @@ export default function Contact() {
                   'pb-8',
                   'text-center md:text-left'
                 )}>
-                  Have questions, want to book a nanny, or need help choosing the right caregiver? We&apos;re here to help!
+                  Have questions, want to book a nanny in Brunei, or need help choosing the right caregiver? We&apos;re here to help!
                 </p>
                 
                 <form className="flex flex-col gap-[25px]">
@@ -265,7 +281,7 @@ export default function Contact() {
               <div className="absolute w-[815px] h-[883px] bottom-[-50px] right-[-35px]">
                 <Image
                   src="/nanny_contact.png"
-                  alt="Professional nanny"
+                  alt="Professional nanny in Brunei"
                   fill
                   className="object-contain"
                   priority
@@ -276,6 +292,7 @@ export default function Contact() {
             </div>
           </div>
         </div>
+        <NeedHelp />
       </main>
     </>
   );

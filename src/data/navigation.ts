@@ -33,8 +33,8 @@ export const navigationItems: NavigationItem[] = [
 ];
 
 export const siteConfig = {
-  name: 'ASUH On The Move | Professional Nanny & Childcare Services in Brunei',
-  description: 'Brunei\'s trusted childcare provider offering professional nanny services, babysitting, and child care solutions for families. Experienced, trained nannies for your peace of mind.',
+  name: 'ASUH On The Move | Professional Nanny Services Brunei',
+  description: 'Brunei\'s premier nanny agency offering professional nanny services in Brunei. Find trusted and experienced nannies for your family. Nanny Brunei service with trained childcare professionals.',
   mainNav: navigationItems,
   links: {
     facebook: 'https://facebook.com/asuhonthemove',
