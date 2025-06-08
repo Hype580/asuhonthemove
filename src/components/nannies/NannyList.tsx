@@ -17,7 +17,8 @@ const nannies = [
       value: 'Personal experience as a mother'
     },
     color: '#F8E6E6',
-    circleColor: '#E7ADAE'
+    circleColor: '#E7ADAE',
+    zoom: false
   },
   {
     name: 'Siti Hajidahfaezah Binti Samsani',
@@ -35,7 +36,8 @@ const nannies = [
       value: 'Assistant Teacher, Clinic Assistant'
     },
     color: '#C5E6ED',
-    circleColor: '#44AEC5'
+    circleColor: '#44AEC5',
+    zoom: false
   },
   {
     name: 'Dayangku Nur Haziyah Bte PG Hj Sallehudin',
@@ -53,7 +55,8 @@ const nannies = [
       value: 'Hands-on experience in childcare, trained by expert team'
     },
     color: '#F8E6E6',
-    circleColor: '#E7ADAE'
+    circleColor: '#E7ADAE',
+    zoom: false
   },
   {
     name: 'Amal Amirah Binti Mohammad Asri',
@@ -72,26 +75,8 @@ const nannies = [
     },
     color: '#C5E6ED',
     circleColor: '#44AEC5',
-    zoom: true
-  },
-  {
-    name: 'Hana Naqibah binti Aladin',
-    image: '/nanny6.png',
-    background: {
-      label: 'Background',
-      items: ['Childcare', 'Psychology', 'Mental Health', 'Child Development']
-    },
-    education: {
-      label: 'Education',
-      value: 'Bachelor Degree (Hons) Psychology'
-    },
-    experience: {
-      label: 'Experience',
-      value: 'Physcologist JPMC, Talian Harapan, Muzzyland Educare, Pusat Bahagia.'
-    },
-    color: '#F8E6E6',
-    circleColor: '#E7ADAE',
-    zoom: true
+    zoom: true,
+    objectPosition: '50% 40%'
   },
   {
     name: 'Nahdatulirma Nadirah Binti A. Hamidun',
@@ -110,7 +95,9 @@ const nannies = [
     },
     color: '#C5E6ED',
     circleColor: '#44AEC5',
-    zoom: true
+    zoom: true,
+    zoomLevel: 1.6,
+    objectPosition: '50% 40%'
   },
   {
     name: 'Nur Shazia Amaya Toledo Binti Abdullah',
@@ -121,7 +108,7 @@ const nannies = [
     },
     education: {
       label: 'Education',
-      value: 'Diploma in Hospitality Managament'
+      value: 'Diploma in Hospitality Management'
     },
     experience: {
       label: 'Experience',
@@ -129,7 +116,8 @@ const nannies = [
     },
     color: '#F8E6E6',
     circleColor: '#E7ADAE',
-    zoom: true
+    zoom: true,
+    objectPosition: '50% 40%'
   },
   {
     name: 'Siti Nurhanisah bt Hamidon',
@@ -148,7 +136,8 @@ const nannies = [
     },
     color: '#C5E6ED',
     circleColor: '#44AEC5',
-    zoom: true
+    zoom: true,
+    objectPosition: '50% 25%'
   },
   {
     name: 'Siti Nurrahmah Sabariah Abdullah Abdul Razak',
@@ -163,11 +152,12 @@ const nannies = [
     },
     experience: {
       label: 'Experience',
-      value: 'Tution Teacher, and Nursing'
+      value: 'Tuition Teacher, and Nursing'
     },
     color: '#F8E6E6',
     circleColor: '#E7ADAE',
-    zoom: true
+    zoom: true,
+    objectPosition: '50% 35%'
   },
   {
     name: 'Tsaqifah bte Roselanzailani',
@@ -182,12 +172,33 @@ const nannies = [
     },
     experience: {
       label: 'Experience',
-      value: 'Bright Kids Kindergarden, Clinic Assistant'
+      value: 'Bright Kids Kindergarten, Clinic Assistant'
     },
     color: '#C5E6ED',
     circleColor: '#44AEC5',
-    zoom: true
+    zoom: true,
+    objectPosition: '50% 50%'
   },
+  {
+    name: 'Sheryl Fung Yen Yuan',
+    image: '/new_nanny.png',
+    background: {
+      label: 'Background',
+      items: ['Childcare', 'Healthcare', 'Nursing']
+    },
+    education: {
+      label: 'Education',
+      value: 'Bachelor of Health Science in Nursing'
+    },
+    experience: {
+      label: 'Experience',
+      value: 'SMARTER Internship, Nursing Placement at Pediatric and BLNG HSE Nurse'
+    },
+    color: '#F8E6E6',
+    circleColor: '#E7ADAE',
+    zoom: true,
+    objectPosition: '50% 41%'
+  }
 ];
 
 export default function NannyList() {

@@ -18,9 +18,11 @@ interface NannyCardProps {
   color: string;
   circleColor: string;
   zoom?: boolean;
+  zoomLevel?: number;
+  objectPosition?: string;
 }
 
-export default function NannyCard({ name, image, background, education, experience, color, circleColor, zoom }: NannyCardProps) {
+export default function NannyCard({ name, image, background, education, experience, color, circleColor, zoom, zoomLevel = 1.4, objectPosition = '50% 50%' }: NannyCardProps) {
   return (
     <div style={{backgroundColor: color}} className="w-[90%] md:w-[795px] min-h-[298px] md:h-auto rounded-[10px] p-4 md:p-[30px] shadow-[0px_10px_30px_0px_#0000000D]">
       <div className="w-full md:w-[735px] min-h-[238px] md:h-auto rounded-[10px] bg-white shadow-[0px_10px_30px_0px_#0000000D] p-4 md:p-8 flex flex-col md:flex-row items-center gap-6 md:gap-10">
@@ -31,7 +33,12 @@ export default function NannyCard({ name, image, background, education, experien
             alt={name}
             fill
             sizes="(max-width: 768px) 160px, 198px"
-            className={`rounded-[1000px] object-cover ${zoom ? 'object-[50%_50%] scale-[1.25]' : ''}`}
+            className="rounded-[1000px] object-cover"
+            style={{ 
+              objectPosition,
+              transform: zoom ? `scale(${zoomLevel})` : 'scale(1)',
+              transformOrigin: objectPosition
+            }}
           />
           <div 
             style={{borderColor: circleColor}} 

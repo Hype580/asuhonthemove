@@ -30,13 +30,13 @@ const PricingCard = ({ price, title, timeCondition, benefits, variant }: Pricing
       <div className="w-full bg-white rounded-lg p-4 sm:p-6 md:p-8 flex flex-col relative z-10 pb-12 md:pb-16 min-h-[430px]">
         <div className="flex items-baseline gap-2">
           <span className={`my-2 sm:my-3 md:my-4 text-[28px] sm:text-[32px] md:text-[36px] font-normal font-poppins leading-[36px] sm:leading-[42px] md:leading-[46px] ${colorClasses[variant].title}`}>{price}</span>
-          <span className="text-gray-600 text-[15px] sm:text-[16px] md:text-[17px] font-normal font-poppins leading-[100%]">/hour</span>
+          <span className="text-gray-600 text-[15px] sm:text-[16px] md:text-[17px] font-normal font-poppins leading-[100%]">an hour</span>
         </div>
         
         <div className="my-1">
-          <div className="flex items-center gap-2">
+          <div className="flex flex-col gap-1">
             <h3 className={`text-[20px] sm:text-[22px] md:text-[24px] font-medium font-poppins leading-[100%] ${colorClasses[variant].title}`}>{title}</h3>
-            <span className={`text-sm sm:text-md ${colorClasses[variant].title}`}>{timeCondition}</span>
+            <p className="text-gray-700 text-sm font-normal font-poppins leading-[120%]">{timeCondition}</p>
           </div>
         </div>
 
@@ -74,22 +74,36 @@ export default function PricingCards() {
     "Suitable for working parents with long hours.",
     "Consistent support for your child's daily routine."
   ];
+
+  const onDemandBenefits = [
+    "Perfect for last-minute childcare needs.",
+    "Quick response for urgent situations.",
+    "Available when you need care immediately."
+  ];
+
   return (
     <div className="w-full mx-auto px-4 md:px-0 bg-[#FDF7F7] py-8 sm:py-12 md:py-16">
-      <div className="max-w-[1200px] mx-auto flex flex-col sm:flex-row justify-center md:justify-between items-center gap-20 sm:gap-16 md:gap-12 min-h-[500px]">
+      <div className="max-w-[1200px] mx-auto flex flex-col sm:flex-row justify-center md:justify-between items-center gap-20 sm:gap-20 md:gap-16 lg:gap-20 min-h-[500px]">
         <PricingCard
           price="$6"
-          title="Flexi Care"
-          timeCondition="for 4 hours below"
+          title="ASUH Flexi"
+          timeCondition="Short-term childcare solution for up to 4 hours."
           benefits={flexiCareBenefits}
           variant="turquoise"
         />
         <PricingCard
           price="$5"
-          title="Full Care"
-          timeCondition="for more than 4 hours"
+          title="ASUH Full"
+          timeCondition="Asuh Extended childcare solution for a minimum of 5 hours."
           benefits={fullCareBenefits}
           variant="pink"
+        />
+        <PricingCard
+          price="$8"
+          title="ASUH On-Demand"
+          timeCondition="Asuh Booking Request less than 12 hours"
+          benefits={onDemandBenefits}
+          variant="turquoise"
         />
       </div>
     </div>
