@@ -37,7 +37,7 @@ const Footer: React.FC = () => {
           {/* Main Content in Columns */}
           <div className="grid grid-cols-1 md:grid-cols-4 gap-8 mb-8">
             {/* Logo Column */}
-            <div className="flex flex-col items-center md:items-start">
+            <div className="flex flex-col items-center">
               <Image 
                 src="/logo.png" 
                 alt="ASUH Logo" 
@@ -92,7 +92,7 @@ const Footer: React.FC = () => {
             {/* Email Column */}
             <div className="flex flex-col items-center md:items-start">
               <h3 className={cn(typographyStyles, 'font-[600] text-[#3E9EB3] mb-4')}>Email</h3>
-              <div className="flex items-center gap-2 w-full max-w-full overflow-hidden">
+              <div className="flex items-center gap-2 max-w-full">
                 <div className="w-[25px] h-[25px] relative flex items-center justify-center flex-shrink-0">
                   <Image 
                     src="/icons/email.svg" 
@@ -102,7 +102,7 @@ const Footer: React.FC = () => {
                     className="w-[20px] h-[20px]"
                   />
                 </div>
-                <span className={cn(typographyStyles, 'text-[#3E9EB3] break-words max-w-[200px] sm:max-w-[250px] md:max-w-none overflow-hidden')}>
+                <span className={cn(typographyStyles, 'text-[#3E9EB3] break-words min-w-0 overflow-hidden')}>
                   {footerDetails.contact.email}
                 </span>
               </div>
@@ -118,6 +118,15 @@ const Footer: React.FC = () => {
                 <Image 
                   src="/icons/instagram.svg" 
                   alt="Instagram" 
+                  width={36} 
+                  height={36}
+                  className="w-[36px] h-[36px]"
+                />
+              </Link>
+              <Link href={footerDetails.socials.linktree} className="flex items-center justify-center hover:opacity-80 transition-opacity p-2">
+                <Image 
+                  src="/icons/Linktree.svg" 
+                  alt="Linktree" 
                   width={36} 
                   height={36}
                   className="w-[36px] h-[36px]"

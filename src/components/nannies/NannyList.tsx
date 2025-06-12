@@ -16,8 +16,6 @@ const nannies = [
       label: 'Experience',
       value: 'Personal experience as a mother'
     },
-    color: '#F8E6E6',
-    circleColor: '#E7ADAE',
     zoom: false
   },
   {
@@ -35,8 +33,6 @@ const nannies = [
       label: 'Experience',
       value: 'Assistant Teacher, Clinic Assistant'
     },
-    color: '#C5E6ED',
-    circleColor: '#44AEC5',
     zoom: false
   },
   {
@@ -54,8 +50,6 @@ const nannies = [
       label: 'Experience',
       value: 'Hands-on experience in childcare, trained by expert team'
     },
-    color: '#F8E6E6',
-    circleColor: '#E7ADAE',
     zoom: false
   },
   {
@@ -73,8 +67,6 @@ const nannies = [
       label: 'Experience',
       value: 'Clinical Placement at Women and Child centre'
     },
-    color: '#C5E6ED',
-    circleColor: '#44AEC5',
     zoom: true,
     objectPosition: '50% 40%'
   },
@@ -93,8 +85,6 @@ const nannies = [
       label: 'Experience',
       value: 'Nursing attachment at Berakas Health Centre including Child Development Centre'
     },
-    color: '#C5E6ED',
-    circleColor: '#44AEC5',
     zoom: true,
     zoomLevel: 1.6,
     objectPosition: '50% 40%'
@@ -114,8 +104,6 @@ const nannies = [
       label: 'Experience',
       value: 'Customer Service and a mother of two'
     },
-    color: '#F8E6E6',
-    circleColor: '#E7ADAE',
     zoom: true,
     objectPosition: '50% 40%'
   },
@@ -134,8 +122,6 @@ const nannies = [
       label: 'Experience',
       value: 'Minor in Special Education in Primary schools, Islamic Studies Teacher'
     },
-    color: '#C5E6ED',
-    circleColor: '#44AEC5',
     zoom: true,
     objectPosition: '50% 25%'
   },
@@ -154,8 +140,6 @@ const nannies = [
       label: 'Experience',
       value: 'Tuition Teacher, and Nursing'
     },
-    color: '#F8E6E6',
-    circleColor: '#E7ADAE',
     zoom: true,
     objectPosition: '50% 35%'
   },
@@ -174,8 +158,6 @@ const nannies = [
       label: 'Experience',
       value: 'Bright Kids Kindergarten, Clinic Assistant'
     },
-    color: '#C5E6ED',
-    circleColor: '#44AEC5',
     zoom: true,
     objectPosition: '50% 50%'
   },
@@ -192,24 +174,49 @@ const nannies = [
     },
     experience: {
       label: 'Experience',
-      value: 'SMARTER Internship, Nursing Placement at Pediatric and BLNG HSE Nurse'
+      value: 'SMARTER Internship, Nursing Placement at Pediatric'
     },
-    color: '#F8E6E6',
-    circleColor: '#E7ADAE',
     zoom: true,
     objectPosition: '50% 41%'
+  },
+  {
+    name: 'Siti Nurezlynn Binti Haji Zulkiffli',
+    image: '/nanny8.jpg',
+    background: {
+      label: 'Background',
+      items: ['Childcare', 'Healthcare', 'Nursing']
+    },  
+    education: {
+      label: 'Education',
+      value: 'Bachelor of Health in Nursing'
+    },
+    experience: {
+      label: 'Experience',
+      value: 'Peadiatric Unit at Ripas Hospital'
+    },
+    zoom: true,
+    objectPosition: '50% 20%'
   }
 ];
 
 export default function NannyList() {
   return (
     <div className="w-full flex flex-col items-center gap-6 md:gap-10 mt-8 md:mt-16 mb-16 md:mb-24">
-      {nannies.map((nanny) => (
-        <NannyCard
-          key={nanny.name}
-          {...nanny}
-        />
-      ))}
+      {nannies.map((nanny, index) => {
+        // Determine colors based on odd/even index (0-based, so we add 1 to make it 1-based)
+        const isOdd = (index + 1) % 2 === 1;
+        const color = isOdd ? '#F8E6E6' : '#C5E6ED';
+        const circleColor = isOdd ? '#E7ADAE' : '#44AEC5';
+        
+        return (
+          <NannyCard
+            key={nanny.name}
+            {...nanny}
+            color={color}
+            circleColor={circleColor}
+          />
+        );
+      })}
     </div>
   );
 } 

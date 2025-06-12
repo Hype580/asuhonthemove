@@ -11,6 +11,7 @@ export interface IFooterDetails {
   socials: {
     instagram: string;
     whatsapp: string;
+    linktree: string;
   };
 }
 
@@ -32,6 +33,7 @@ export const footerDetails: IFooterDetails = {
   },
   socials: {
     instagram: "https://www.instagram.com/asuhonthemove",
-    whatsapp: "https://wa.me/6738197773"
+    whatsapp: "https://wa.me/6738197773",
+    linktree: "https://linktr.ee/AsuhOnTheMove.com"
   }
 };
