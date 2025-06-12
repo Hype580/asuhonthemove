@@ -32,7 +32,7 @@ const Footer: React.FC = () => {
         <div className="absolute left-0 top-0 w-[60px] h-[60px] sm:w-[80px] sm:h-[80px] md:w-[120px] md:h-[120px] bg-[#44AEC5] rounded-br-[20px] sm:rounded-br-[30px] md:rounded-br-[40px]" />
       )}
 
-      <div className="relative max-w-[1200px] mx-auto px-4 sm:px-6 md:px-8 py-12">
+      <div className="relative max-w-[1300px] mx-auto px-4 sm:px-6 md:px-8 py-12">
         <div className="flex flex-col mt-12">
           {/* Main Content in Columns */}
           <div className="grid grid-cols-1 md:grid-cols-4 gap-8 mb-8">
