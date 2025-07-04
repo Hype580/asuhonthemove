@@ -25,6 +25,9 @@ export const footerDetails: IFooterDetails = {
     },
     {
       name: "Bandar Seri Begawan"
+    },
+    {
+      name: "Temburong"
     }
   ],
   contact: {
