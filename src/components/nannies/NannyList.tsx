@@ -196,6 +196,60 @@ const nannies = [
     },
     zoom: true,
     objectPosition: '50% 20%'
+  },
+  {
+    name: 'Nur Rabi\'atul Adawiah Bte Norasmadi',
+    image: '/Norasmadi.jpg',
+    background: {
+      label: 'Background',
+      items: ['Childcare', 'Healthcare', 'First Aid']
+    },  
+    education: {
+      label: 'Education',
+      value: 'Bachelor of Halal Science | Certified Basic First Aider'
+    },
+    experience: {
+      label: 'Experience',
+      value: 'Personal babysitting for 9 childrens & volunteering in children programme taking care of their safety while doing outdoor activies.'
+    },
+    zoom: true,
+    objectPosition: '60% 50%'
+  },
+  {
+    name: 'Nur Syifaa Syafiqah Binti Mukrin',
+    image: '/Mukrin.jpg',
+    background: {
+      label: 'Background',
+      items: ['Childcare', 'Business Management', 'Community Service']
+    },  
+    education: {
+      label: 'Education',
+      value: 'Bachelor of Business Management UNISSA'
+    },
+    experience: {
+      label: 'Experience',
+      value: 'Volunteering through various community programmes'
+    },
+    zoom: true,
+    objectPosition: '55% 40%'
+  },
+  {
+    name: 'Nur Syahzani Syaziyah Suhailah Binti Zaini',
+    image: '/nanny8.jpg',
+    background: {
+      label: 'Background',
+      items: ['Childcare', 'Tourism Management', 'Culinary Arts']
+    },  
+    education: {
+      label: 'Education',
+      value: 'Pursuing Bachelor in Internation Tourism Management | Apprentice in Professional Cooking'
+    },
+    experience: {
+      label: 'Experience',
+      value: 'Private personal babysitting for a family with 4 children'
+    },
+    zoom: true,
+    objectPosition: '52% 20%'
   }
 ];
 
