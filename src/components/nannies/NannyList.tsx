@@ -235,7 +235,7 @@ const nannies = [
   },
   {
     name: 'Nur Syahzani Syaziyah Suhailah Binti Zaini',
-    image: '/nanny8.jpg',
+    image: '/Zaini.jpg',
     background: {
       label: 'Background',
       items: ['Childcare', 'Tourism Management', 'Culinary Arts']
