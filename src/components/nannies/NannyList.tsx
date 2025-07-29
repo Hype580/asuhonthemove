@@ -249,7 +249,8 @@ const nannies = [
       value: 'Private personal babysitting for a family with 4 children'
     },
     zoom: true,
-    objectPosition: '52% 20%'
+    zoomLevel: 1.8,
+    objectPosition: '48% 50%'
   }
 ];
 
