@@ -126,24 +126,6 @@ const nannies = [
     objectPosition: '50% 25%'
   },
   {
-    name: 'Siti Nurrahmah Sabariah Abdullah Abdul Razak',
-    image: '/siti-nurrahmah.png',
-    background: {
-      label: 'Background',
-      items: ['Childcare', 'Nursing', 'Healthcare', 'Education']
-    },
-    education: {
-      label: 'Education',
-      value: 'Bachelor of Health in Nursing'
-    },
-    experience: {
-      label: 'Experience',
-      value: 'Tuition Teacher, and Nursing'
-    },
-    zoom: true,
-    objectPosition: '50% 35%'
-  },
-  {
     name: 'Tsaqifah bte Roselanzailani',
     image: '/tsaqifah.png',
     background: {
@@ -251,7 +233,119 @@ const nannies = [
     zoom: true,
     zoomLevel: 1.8,
     objectPosition: '48% 50%'
-  }
+  },
+  {
+    name: 'Erna Dynatasya binti Duming',
+    image: '/nannies/binti_duming.png',
+    background: {
+      label: 'Background',
+      items: ['Childcare', 'Environmental Health']
+    },
+    education: {
+      label: 'Education',
+      value: 'Level 5 Diploma in Environmental Health'
+    },
+    experience: {
+      label: 'Experience',
+      value: 'Personal babysitter'
+    },
+    zoom: true,
+    zoomLevel: 2,
+    objectPosition: '50% 50%'
+  },
+  {
+    name: 'Qurratul\'Ain Syukriyah Binti Haji Shamsul Ariffin',
+    image: '/nannies/Shamsul_Ariffin.png',
+    background: {
+      label: 'Background',
+      items: ['Childcare', 'Technician']
+    },
+    education: {
+      label: 'Education',
+      value: 'HNtec in Instrumentation and Control Engineering'
+    },
+    experience: {
+      label: 'Experience',
+      value: 'Trainer, a mother'
+    },
+    zoom: true,
+    objectPosition: '50% 30%'
+  },
+  {
+    name: 'Dayangku Hani Azimah binti Pengiran Haji Mohd Yussof',
+    image: '/nannies/Mohd_Yussof.png',
+    background: {
+      label: 'Background',
+      items: ['Childcare', 'Teacher']
+    },
+    education: {
+      label: 'Education',
+      value: 'Bachelor Degree of Science in Mathematics'
+    },
+    experience: {
+      label: 'Experience',
+      value: 'Primary Teacher'
+    },
+    zoom: true,
+    zoomLevel: 1.8,
+    objectPosition: '45% 40%'
+  },
+  {
+    name: 'Filza Hazeerah Binti Norazlan',
+    image: '/nannies/Binti_Norazlan.png',
+    background: {
+      label: 'Background',
+      items: ['Childcare', 'Special Needs Teacher']
+    },
+    education: {
+      label: 'Education',
+      value: 'Early Childhood Educator'
+    },
+    experience: {
+      label: 'Experience',
+      value: 'Montessori Directress, Teacher, Nursery Caretaker'
+    },
+    zoom: true,
+    objectPosition: '50% 32%'
+  },
+  {
+    name: 'Nur Nadiah Binti Sallehkin',
+    image: '/nannies/Binti_Sallehkin.png',
+    background: {
+      label: 'Background',
+      items: ['Childcare', 'Nursing']
+    },
+    education: {
+      label: 'Education',
+      value: 'Bachelor of Health Science Nursing'
+    },
+    experience: {
+      label: 'Experience',
+      value: 'General Nursing'
+    },
+    zoom: true,
+    objectPosition: '50% 40%'
+  },
+  {
+    name: 'Dk Nur Haziah Binti Pg Hassani',
+    image: '/nannies/Binti_Pg_Hassani.png',
+    background: {
+      label: 'Background',
+      items: ['Childcare', 'Nursing']
+    },
+    education: {
+      label: 'Education',
+      value: 'Bachelor of Health Science in Midwifery'
+    },
+    experience: {
+      label: 'Experience',
+      value: 'Midwife, CDC & SMARTER'
+    },
+    zoom: true,
+    zoomLevel: 1.6,
+    objectPosition: '50% 40%'
+  },
+  
 ];
 
 export default function NannyList() {
