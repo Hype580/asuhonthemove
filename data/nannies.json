@@ -1,0 +1,25 @@
+[
+  {
+    "id": "mfmpvchqehn9oj19ps",
+    "name": "Adr",
+    "image": "/uploads/1758037053946_Binti_Sallehkin.png",
+    "background": {
+      "label": "Background",
+      "items": [
+        "Childcare",
+        "Nursing"
+      ]
+    },
+    "education": {
+      "label": "Education",
+      "value": "Bachelor of science in nursing"
+    },
+    "experience": {
+      "label": "Experience",
+      "value": "6 years of experience"
+    },
+    "zoom": true,
+    "zoomLevel": 1.4,
+    "objectPosition": "50% 40%"
+  }
+]
