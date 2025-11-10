@@ -19,7 +19,7 @@ export const servicesData = [
       'Expert advice on child development',
       'A trusted support system for families'
     ],
-    imageSrc: '/nanny_with_baby.jpeg',
+    imageSrc: '/new/Parental Support & Guidance.png',
     imageAlt: 'Parent and child interaction',
     variant: 'pink' as const
   },
@@ -31,7 +31,7 @@ export const servicesData = [
       'Short-term or long-term options',
       'Stress-free and convenient booking'
     ],
-    imageSrc: '/nanny_feeding_kid.jpeg',
+    imageSrc: '/new/Flexible Scheduling.png',
     imageAlt: 'Parent and child scheduling activities',
     variant: 'blue' as const
   },
@@ -43,7 +43,7 @@ export const servicesData = [
       'Personalized support for child learning & development',
       'Safe and engaging care tailored to every stage'
     ],
-    imageSrc: '/happy_nanny_with_kids.jpeg',
+    imageSrc: '/new/Specialized Care.png',
     imageAlt: 'Specialized childcare activities',
     variant: 'pink' as const
   }

@@ -91,7 +91,7 @@ const WhyPickUsSection: React.FC = () => {
     },
     // Row 2
     {
-      image: "/baby_playing_with_nanny.jpeg",
+      image: "/new/Safe & Engaging Environments(Left).png",
       bgColor: "bg-transparent",
     },
     {

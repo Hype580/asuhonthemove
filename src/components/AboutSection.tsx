@@ -45,17 +45,17 @@ const AboutSection: React.FC = () => {
 
       <div className="flex flex-wrap justify-center gap-y-[40px] gap-x-[30px] sm:gap-x-[40px] lg:gap-x-[80px] mt-[40px] lg:mt-[80px] mx-auto">
         <FeatureCard
-          imageSrc="/flexible-childcare.jpeg"
+          imageSrc="/new/Flexible childcare solutions.png"
           imageAlt="Children engaged in learning activities"
           title="Flexible childcare solutions"
         />
         <FeatureCard
-          imageSrc="/holistic-development.jpeg"
+          imageSrc="/new/Holistic child development.png"
           imageAlt="Child playing outdoors"
           title="Holistic child development"
         />
         <FeatureCard
-          imageSrc="/trained-nannies.jpeg"
+          imageSrc="/new/Trained caring nannies.png"
           imageAlt="Nanny interacting with child"
           title="Trained, caring nannies"
         />

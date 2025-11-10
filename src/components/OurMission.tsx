@@ -47,7 +47,7 @@ const OurMission = () => {
             {/* Image */}
             <div className="relative z-10 w-full h-[300px] lg:w-[400px] lg:h-[400px] overflow-hidden rounded-[20px] lg:rounded-[40px]">
               <Image
-                src="/mission-child.jpg"
+                src="/new/mission.jpg"
                 alt="Happy child with pink bow"
                 fill
                 sizes="(max-width: 1024px) 100vw, 400px"
