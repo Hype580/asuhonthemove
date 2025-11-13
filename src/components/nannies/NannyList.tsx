@@ -20,18 +20,22 @@ const nannies = [
   },
   {
     name: 'Siti Hajidahfaezah Binti Samsani',
-    image: '/untitled_design_720.jpg',
+    image: '/New_Nannies/Siti Hajidahfaezah Binti Samsani.jpg',
     background: {
       label: 'Background',
-      items: ['Childcare', 'Education']
+      items: ['Childcare']
     },
     education: {
       label: 'Education',
-      value: 'Diploma in Business Administration'
+      value: 'Business in Business Administration'
     },
     experience: {
       label: 'Experience',
-      value: 'Assistant Teacher, Clinic Assistant'
+      value: ''
+    },
+    specialty: {
+      label: 'Specialty',
+      value: 'Montessori Education'
     },
     zoom: false
   },
@@ -54,10 +58,10 @@ const nannies = [
   },
   {
     name: 'Amal Amirah Binti Mohammad Asri',
-    image: '/amal-amirah.png',
+    image: '/New_Nannies/Amal Amirah Binti Mohammad Asri.jpg',
     background: {
       label: 'Background',
-      items: ['Childcare', 'Healthcare', 'Midwifery', 'Maternal & Newborn Care']
+      items: ['Midwifery']
     },
     education: {
       label: 'Education',
@@ -65,7 +69,11 @@ const nannies = [
     },
     experience: {
       label: 'Experience',
-      value: 'Clinical Placement at Women and Child centre'
+      value: ''
+    },
+    specialty: {
+      label: 'Specialty',
+      value: 'Newborn Care'
     },
     zoom: true,
     objectPosition: '50% 40%'
@@ -91,10 +99,10 @@ const nannies = [
   },
   {
     name: 'Nur Shazia Amaya Toledo Binti Abdullah',
-    image: '/nur-shazia.png',
+    image: '/New_Nannies/Nur Shazia Amaya Toledo Binti Abdullah.jpg',
     background: {
       label: 'Background',
-      items: ['Childcare', 'Hospitality', 'Customer Service', 'Parenting']
+      items: ['Hospitality & Customer Service']
     },
     education: {
       label: 'Education',
@@ -102,7 +110,11 @@ const nannies = [
     },
     experience: {
       label: 'Experience',
-      value: 'Customer Service and a mother of two'
+      value: ''
+    },
+    specialty: {
+      label: 'Specialty',
+      value: 'Nurturing Infant & Parenting'
     },
     zoom: true,
     objectPosition: '50% 40%'
@@ -127,10 +139,10 @@ const nannies = [
   },
   {
     name: 'Tsaqifah bte Roselanzailani',
-    image: '/tsaqifah.png',
+    image: '/New_Nannies/Tsaqifah bte Roselanzailani.jpg',
     background: {
       label: 'Background',
-      items: ['Childcare', 'Education', 'Healthcare', 'Creative Media']
+      items: ['Childcare & Creative Media']
     },
     education: {
       label: 'Education',
@@ -140,15 +152,20 @@ const nannies = [
       label: 'Experience',
       value: 'Bright Kids Kindergarten, Clinic Assistant'
     },
+    specialty: {
+      label: 'Specialty',
+      value: 'Certified Psychological First Aider & Child Development'
+    },
     zoom: true,
-    objectPosition: '50% 50%'
+    zoomLevel: 1.1,
+    objectPosition: '50% 40%'
   },
   {
     name: 'Sheryl Fung Yen Yuan',
-    image: '/new_nanny.png',
+    image: '/New_Nannies/Sheryl Fung Yen Yuan.jpg',
     background: {
       label: 'Background',
-      items: ['Childcare', 'Healthcare', 'Nursing']
+      items: ['Nursing']
     },
     education: {
       label: 'Education',
@@ -158,15 +175,20 @@ const nannies = [
       label: 'Experience',
       value: 'SMARTER Internship, Nursing Placement at Pediatric'
     },
+    specialty: {
+      label: 'Specialty',
+      value: 'Child Development, Certified Pediatric First Aider'
+    },
     zoom: true,
-    objectPosition: '50% 41%'
+    zoomLevel: 1.1,
+    objectPosition: '50% 40%'
   },
   {
     name: 'Siti Nurezlynn Binti Haji Zulkiffli',
-    image: '/nanny8.jpg',
+    image: '/New_Nannies/Siti Nurezlynn Binti Haji Zulkiffli.jpg',
     background: {
       label: 'Background',
-      items: ['Childcare', 'Healthcare', 'Nursing']
+      items: ['Nursing']
     },  
     education: {
       label: 'Education',
@@ -176,30 +198,40 @@ const nannies = [
       label: 'Experience',
       value: 'Peadiatric Unit at Ripas Hospital'
     },
+    specialty: {
+      label: 'Specialty',
+      value: 'Newborn & Childcare, Certified Pediatric First Aider'
+    },
     zoom: true,
-    objectPosition: '50% 20%'
+    zoomLevel: 1.1,
+    objectPosition: '50% 30%'
   },
   {
     name: 'Nur Rabi\'atul Adawiah Bte Norasmadi',
-    image: '/Norasmadi.jpg',
+    image: '/New_Nannies/Nur Rabi\'atul Adawiah Bte Norasmadi.jpg',
     background: {
       label: 'Background',
       items: ['Childcare', 'Healthcare', 'First Aid']
     },  
     education: {
       label: 'Education',
-      value: 'Bachelor of Halal Science | Certified Basic First Aider'
+      value: 'Bachelor of Halal Science'
     },
     experience: {
       label: 'Experience',
-      value: 'Personal babysitting for 9 childrens & volunteering in children programme taking care of their safety while doing outdoor activies.'
+      value: 'Personal babysitting for 9 children & volunteering in children\'s programme'
+    },
+    specialty: {
+      label: 'Specialty',
+      value: 'Certified First Aider, Newborn Care'
     },
     zoom: true,
-    objectPosition: '60% 50%'
+    zoomLevel: 1.1,
+    objectPosition: '50% 80%'
   },
   {
     name: 'Nur Syifaa Syafiqah Binti Mukrin',
-    image: '/Mukrin.jpg',
+    image: '/New_Nannies/Nur Syifaa Syafiqah Binti Mukrin.jpg',
     background: {
       label: 'Background',
       items: ['Childcare', 'Business Management', 'Community Service']
@@ -210,36 +242,41 @@ const nannies = [
     },
     experience: {
       label: 'Experience',
-      value: 'Volunteering through various community programmes'
+      value: 'Volunteering through various community programme'
     },
-    zoom: true,
-    objectPosition: '55% 40%'
+    specialty: {
+      label: 'Specialty',
+      value: 'Reliable & Caring'
+    },
+    zoom: false,
   },
   {
     name: 'Nur Syahzani Syaziyah Suhailah Binti Zaini',
-    image: '/Zaini.jpg',
+    image: '/New_Nannies/Nur Syahzani Syaziyah Suhailah Binti Zaini.jpg',
     background: {
       label: 'Background',
-      items: ['Childcare', 'Tourism Management', 'Culinary Arts']
+      items: ['Tourism Management', 'Culinary Arts']
     },  
     education: {
       label: 'Education',
-      value: 'Pursuing Bachelor in Internation Tourism Management | Apprentice in Professional Cooking'
+      value: 'Pursuing Bachelor in International Tourism Management | Apprentice in Professional Cooking'
     },
     experience: {
       label: 'Experience',
       value: 'Private personal babysitting for a family with 4 children'
     },
-    zoom: true,
-    zoomLevel: 1.8,
-    objectPosition: '48% 50%'
+    specialty: {
+      label: 'Specialty',
+      value: 'Engaging & Fun'
+    },
+    objectPosition: '50% 50%'
   },
   {
-    name: 'Erna Dynatasya binti Duming',
-    image: '/nannies/binti_duming.png',
+    name: 'Erna Dynatasya Binti Duming',
+    image: '/New_Nannies/Erna Dynatasya Binti Duming.jpg',
     background: {
       label: 'Background',
-      items: ['Childcare', 'Environmental Health']
+      items: ['Environmental Health']
     },
     education: {
       label: 'Education',
@@ -249,16 +286,20 @@ const nannies = [
       label: 'Experience',
       value: 'Personal babysitter'
     },
+    specialty: {
+      label: 'Specialty',
+      value: 'Committed & Reliable, Certified Pediatric First Aider'
+    },
     zoom: true,
-    zoomLevel: 2,
+    zoomLevel: 1.1,
     objectPosition: '50% 50%'
   },
   {
     name: 'Qurratul\'Ain Syukriyah Binti Haji Shamsul Ariffin',
-    image: '/nannies/Shamsul_Ariffin.png',
+    image: '/New_Nannies/Qurratul\'Ain Syukriyah Binti Haji Shamsul Ariffin.jpg',
     background: {
       label: 'Background',
-      items: ['Childcare', 'Technician']
+      items: ['Technician']
     },
     education: {
       label: 'Education',
@@ -266,14 +307,17 @@ const nannies = [
     },
     experience: {
       label: 'Experience',
-      value: 'Trainer, a mother'
+      value: 'a mother'
     },
-    zoom: true,
-    objectPosition: '50% 30%'
+    specialty: {
+      label: 'Specialty',
+      value: 'Newborn Care'
+    },
+    zoom: false,
   },
   {
     name: 'Dayangku Hani Azimah binti Pengiran Haji Mohd Yussof',
-    image: '/nannies/Mohd_Yussof.png',
+    image: '/New_Nannies/Dayangku Hani Azimah binti Pengiran Haji Mohd Yussof.jpg',
     background: {
       label: 'Background',
       items: ['Childcare', 'Teacher']
@@ -286,13 +330,15 @@ const nannies = [
       label: 'Experience',
       value: 'Primary Teacher'
     },
-    zoom: true,
-    zoomLevel: 1.8,
-    objectPosition: '45% 40%'
+    specialty: {
+      label: 'Specialty',
+      value: 'An Educator'
+    },
+    zoom: false,
   },
   {
     name: 'Filza Hazeerah Binti Norazlan',
-    image: '/nannies/Binti_Norazlan.png',
+    image: '/New_Nannies/Filza Hazeerah Binti Norazlan.jpg',
     background: {
       label: 'Background',
       items: ['Childcare', 'Special Needs Teacher']
@@ -303,17 +349,22 @@ const nannies = [
     },
     experience: {
       label: 'Experience',
-      value: 'Montessori Directress, Teacher, Nursery Caretaker'
+      value: 'Daycare Teacher'
+    },
+    specialty: {
+      label: 'Specialty',
+      value: 'Montessori Directress, Nursery Caretaker'
     },
     zoom: true,
-    objectPosition: '50% 32%'
+    zoomLevel: 1.1,
+    objectPosition: '50% 90%'
   },
   {
     name: 'Nur Nadiah Binti Sallehkin',
-    image: '/nannies/Binti_Sallehkin.png',
+    image: '/New_Nannies/Nur Nadiah Binti Sallehkin.jpg',
     background: {
       label: 'Background',
-      items: ['Childcare', 'Nursing']
+      items: ['Nursing']
     },
     education: {
       label: 'Education',
@@ -321,17 +372,137 @@ const nannies = [
     },
     experience: {
       label: 'Experience',
-      value: 'General Nursing'
+      value: 'Obstetrics and Gynecologic Unit in RIPASH'
+    },
+    specialty: {
+      label: 'Specialty',
+      value: 'Health-focused Care'
     },
     zoom: true,
+    zoomLevel: 1.1,
     objectPosition: '50% 40%'
   },
   {
-    name: 'Dk Nur Haziah Binti Pg Hassani',
-    image: '/nannies/Binti_Pg_Hassani.png',
+    name: 'Dk Nur Hazirah Binti Pg Hassani',
+    image: '/New_Nannies/Dk Nur Hazirah Binti Pg Hassani.jpg',
     background: {
       label: 'Background',
-      items: ['Childcare', 'Nursing']
+      items: ['English Major']
+    },
+    education: {
+      label: 'Education',
+      value: 'Bachelors of Arts, English Studies'
+    },
+    experience: {
+      label: 'Experience',
+      value: 'Administrative and Finance Assistant'
+    },
+    specialty: {
+      label: 'Specialty',
+      value: 'Language & Learning Support'
+    },
+    zoom: true,
+    zoomLevel: 1.1,
+    objectPosition: '50% 80%'
+  },
+  {
+    name: 'Hana Humaira Binti Haji Shamsul Osmawi',
+    image: '/New_Nannies/Hana Humaira Binti Haji Shamsul Osmawi.jpg',
+    background: {
+      label: 'Background',
+      items: ['Nursing']
+    },
+    education: {
+      label: 'Education',
+      value: 'Bachelor of Health Science in Nursing'
+    },
+    experience: {
+      label: 'Experience',
+      value: 'Maternal and Child Health Clinic'
+    },
+    specialty: {
+      label: 'Specialty',
+      value: 'Nursing Support'
+    },
+    zoom: true,
+    zoomLevel: 1.1,
+    objectPosition: '50% 90%'
+  },
+  {
+    name: 'Nur Afiqah Binti Sanoran',
+    image: '/New_Nannies/Nur Afiqah Binti Sanoran.jpg',
+    background: {
+      label: 'Background',
+      items: ['Nursing']
+    },
+    education: {
+      label: 'Education',
+      value: 'Bachelor of Health Science in Midwifery'
+    },
+    experience: {
+      label: 'Experience',
+      value: 'Maternal Child Health'
+    },
+    specialty: {
+      label: 'Specialty',
+      value: 'Midwifery Care & Infant Support'
+    },
+    zoom: true,
+    zoomLevel: 1.1,
+    objectPosition: '50% 90%'
+  },
+  {
+    name: 'Munirah Binti Madeli',
+    image: '/New_Nannies/Munirah Binti Madeli.jpg',
+    background: {
+      label: 'Background',
+      items: ['Teacher']
+    },
+    education: {
+      label: 'Education',
+      value: 'Bachelor Of Education in Islamic Studies with a Minor in Early Childhood Education'
+    },
+    experience: {
+      label: 'Experience',
+      value: 'Tuition Teacher'
+    },
+    specialty: {
+      label: 'Specialty',
+      value: 'Islamic & Early Childhood Education'
+    },
+    zoom: true,
+    zoomLevel: 1.1,
+    objectPosition: '50% 90%'
+  },
+  {
+    name: 'Nurshafiqah Binti Husin',
+    image: '/New_Nannies/Nurshafiqah Binti Husin.jpg',
+    background: {
+      label: 'Background',
+      items: ['Teacher']
+    },
+    education: {
+      label: 'Education',
+      value: 'Higher National Diploma in Religious Teacher'
+    },
+    experience: {
+      label: 'Experience',
+      value: 'Babysitting'
+    },
+    specialty: {
+      label: 'Specialty',
+      value: 'Islamic Values & Early Learning'
+    },
+    zoom: true,
+    zoomLevel: 1.1,
+    objectPosition: '50% 80%'
+  },
+  {
+    name: 'Dk Nur Haziah Binti Pg Hassani',
+    image: '/New_Nannies/Dk Nur Haziah Binti Pg Hassani.jpg',
+    background: {
+      label: 'Background',
+      items: ['Nursing']
     },
     education: {
       label: 'Education',
@@ -341,9 +512,13 @@ const nannies = [
       label: 'Experience',
       value: 'Midwife, CDC & SMARTER'
     },
+    specialty: {
+      label: 'Specialty',
+      value: 'Special Needs Care & Nursing Support'
+    },
     zoom: true,
-    zoomLevel: 1.6,
-    objectPosition: '50% 40%'
+    zoomLevel: 1.1,
+    objectPosition: '50% 90%'
   },
   
 ];

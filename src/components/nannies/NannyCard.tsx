@@ -15,6 +15,10 @@ interface NannyCardProps {
     label: string;
     value: string;
   };
+  specialty?: {
+    label: string;
+    value: string;
+  };
   color: string;
   circleColor: string;
   zoom?: boolean;
@@ -22,7 +26,7 @@ interface NannyCardProps {
   objectPosition?: string;
 }
 
-export default function NannyCard({ name, image, background, education, experience, color, circleColor, zoom, zoomLevel = 1.4, objectPosition = '50% 50%' }: NannyCardProps) {
+export default function NannyCard({ name, image, background, education, experience, specialty, color, circleColor, zoom, zoomLevel = 1.4, objectPosition = '50% 50%' }: NannyCardProps) {
   return (
     <div style={{backgroundColor: color}} className="w-[90%] md:w-[795px] min-h-[298px] md:h-auto rounded-[10px] p-4 md:p-[30px] shadow-[0px_10px_30px_0px_#0000000D]">
       <div className="w-full md:w-[735px] min-h-[238px] md:h-auto rounded-[10px] bg-white shadow-[0px_10px_30px_0px_#0000000D] p-4 md:p-8 flex flex-col md:flex-row items-center gap-6 md:gap-10">
@@ -63,25 +67,41 @@ export default function NannyCard({ name, image, background, education, experien
             </span>
           </div>
 
-          {/* Education */}
-          <div className="flex flex-col md:flex-row gap-1 md:gap-2">
-            <span className="font-outfit font-semibold text-[14px] md:text-[16px] leading-[160%] tracking-[0%] text-[#2D2D2D] whitespace-nowrap">
-              {education.label}:
-            </span>
-            <span className="font-outfit font-normal text-[14px] md:text-[16px] leading-[160%] tracking-[0%] text-[#2D2D2D] break-words">
-              {education.value}
-            </span>
-          </div>
+          {/* Education - only show if value is not empty */}
+          {education.value && education.value.trim() !== '' && (
+            <div className="flex flex-col md:flex-row gap-1 md:gap-2">
+              <span className="font-outfit font-semibold text-[14px] md:text-[16px] leading-[160%] tracking-[0%] text-[#2D2D2D] whitespace-nowrap">
+                {education.label}:
+              </span>
+              <span className="font-outfit font-normal text-[14px] md:text-[16px] leading-[160%] tracking-[0%] text-[#2D2D2D] break-words">
+                {education.value}
+              </span>
+            </div>
+          )}
 
-          {/* Experience */}
-          <div className="flex flex-col md:flex-row gap-1 md:gap-2">
-            <span className="font-outfit font-semibold text-[14px] md:text-[16px] leading-[160%] tracking-[0%] text-[#2D2D2D] whitespace-nowrap">
-              {experience.label}:
-            </span>
-            <span className="font-outfit font-normal text-[14px] md:text-[16px] leading-[160%] tracking-[0%] text-[#2D2D2D] break-words">
-              {experience.value}
-            </span>
-          </div>
+          {/* Experience - only show if value is not empty */}
+          {experience.value && experience.value.trim() !== '' && (
+            <div className="flex flex-col md:flex-row gap-1 md:gap-2">
+              <span className="font-outfit font-semibold text-[14px] md:text-[16px] leading-[160%] tracking-[0%] text-[#2D2D2D] whitespace-nowrap">
+                {experience.label}:
+              </span>
+              <span className="font-outfit font-normal text-[14px] md:text-[16px] leading-[160%] tracking-[0%] text-[#2D2D2D] break-words">
+                {experience.value}
+              </span>
+            </div>
+          )}
+
+          {/* Specialty - only show if it exists and value is not empty */}
+          {specialty && specialty.value && specialty.value.trim() !== '' && (
+            <div className="flex flex-col md:flex-row gap-1 md:gap-2">
+              <span className="font-outfit font-semibold text-[14px] md:text-[16px] leading-[160%] tracking-[0%] text-[#2D2D2D] whitespace-nowrap">
+                {specialty.label}:
+              </span>
+              <span className="font-outfit font-normal text-[14px] md:text-[16px] leading-[160%] tracking-[0%] text-[#2D2D2D] break-words">
+                {specialty.value}
+              </span>
+            </div>
+          )}
         </div>
       </div>
     </div>
