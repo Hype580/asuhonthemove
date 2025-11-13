@@ -81,7 +81,7 @@ const ServicesSection: React.FC = () => {
     {
       icon: '/icons/Vector.svg',
       title: 'Personalized Childcare Plans',
-      description: 'Customized to fit your child&apos;s unique needs.',
+      description: "Customized to fit your child\'s unique needs.",
       bgColor: 'bg-[#F8E6E6]',
       iconBGColor: 'linear-gradient(323.2deg, rgba(255, 128, 128, 0.8) 14.53%, rgba(246, 204, 204, 0.8) 84.99%)',
       shadowColor: '4px 8px 20px 0px rgba(227,80,79,0.32)'
@@ -89,7 +89,7 @@ const ServicesSection: React.FC = () => {
     {
       icon: '/icons/Handshake.svg',
       title: 'Parental Support & Guidance',
-      description: 'Helping you make informed decisions about your child&apos;s care.',
+      description: "Helping you make informed decisions about your child\'s care.",
       bgColor: 'bg-[#D8EDEE]',
       iconBGColor: 'linear-gradient(323.2deg, rgba(68, 174, 197, 0.8) 14.53%, rgba(164, 221, 232, 0.8) 84.99%)',
       shadowColor: '4px 8px 20px 0px rgba(68,174,197,0.32)'
