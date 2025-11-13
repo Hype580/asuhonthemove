@@ -3,7 +3,6 @@ import AboutSection from '@/components/AboutSection';
 import ServicesSection from '@/components/ServicesSection';
 import QuoteSection from '@/components/QuoteSection';
 import WhyPickUsSection from '@/components/WhyPickUsSection';
-import StatisticsSection from '@/components/StatisticsSection';
 import ContactCTASection from '@/components/ContactCTASection';
 import Layout from '@/components/Layout';
 import Script from 'next/script';
@@ -74,7 +73,6 @@ const HomePage: React.FC = () => {
           <AboutSection />
           <ServicesSection />
           <QuoteSection />
-          {/* <StatisticsSection /> */}
           <WhyPickUsSection />
           <ContactCTASection />
         </main>

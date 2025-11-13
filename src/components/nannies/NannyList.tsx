@@ -207,8 +207,8 @@ const nannies = [
     objectPosition: '50% 30%'
   },
   {
-    name: "Nur Rabi'atul Adawiah Bte Norasmadi",
-    image: "/New_Nannies/Nur Rabi.jpg",
+    name: 'Nur Rabi\'atul Adawiah Bte Norasmadi',
+    image: '/New_Nannies/Nur Rabi.jpg',
     background: {
       label: 'Background',
       items: ['Childcare', 'Healthcare', 'First Aid']
