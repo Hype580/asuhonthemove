@@ -43,19 +43,19 @@ const HeroButton = ({ href, ariaLabel, children }: HeroButtonProps) => (
 export function Hero() {
   return (
     <section 
-      className="relative h-[50vh] sm:h-[55vh] md:h-screen w-full overflow-hidden"
+      className="relative w-full overflow-hidden aspect-video mt-[80px] sm:mt-[80px] md:mt-[105px]"
       aria-label="Hero section"
     >
       {/* Hero Background Image */}
-      <div className="absolute inset-0 w-full">
+      <div className="absolute inset-0 w-full h-full">
         <Image
           src={heroContent.image.src}
           alt={heroContent.image.alt}
           fill
-          className="object-cover scale-x-[-1] md:object-center object-[50%_30%] sm:object-[center_40%]"
+          className="object-cover object-center"
           priority
           sizes="100vw"
-          quality={90}
+          quality={100}
         />
         {/* Optional overlay for better text readability */}
         <div className="absolute inset-0 bg-black/20" />
@@ -69,9 +69,10 @@ export function Hero() {
             'absolute flex flex-col',
             'w-full max-w-[672px]',
             'px-4 sm:px-6 lg:px-0',
-            'top-[40%] sm:top-[30%] md:top-[22vh] lg:top-[515px]',
+            'top-[50%] sm:top-[52%] md:top-[55%]',
             'left-0 sm:left-[5%] md:left-[8%] lg:left-[134px]',
-            'pb-4 sm:pb-6'
+            '-translate-y-[45%]',
+            'pb-8 sm:pb-10 md:pb-6'
           )}
           style={{
             gap: `${heroContent.layout.contentPosition.gap}px`
@@ -103,12 +104,14 @@ export function Hero() {
               {heroContent.description}
             </p>
           </div>
-          <HeroButton
-            href={heroContent.cta.href}
-            ariaLabel={heroContent.cta.ariaLabel}
-          >
-            {heroContent.cta.text}
-          </HeroButton>
+          <div className="-mt-2 sm:-mt-2 md:mt-0">
+            <HeroButton
+              href={heroContent.cta.href}
+              ariaLabel={heroContent.cta.ariaLabel}
+            >
+              {heroContent.cta.text}
+            </HeroButton>
+          </div>
         </div>
       </div>
     </section>

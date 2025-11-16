@@ -2,7 +2,7 @@ export const heroContent = {
   title: 'Trusted Nannies, Happy Families',
   description: 'Finding a caring and professional nanny has never been easier. ASUH connects you with trained nannies who provide safe and loving childcare – anytime, anywhere.',
   image: {
-    src: '/heroimage.png',
+    src: '/new/homepage.jpeg',
     alt: 'Nanny caring for child',
   },
   cta: {
