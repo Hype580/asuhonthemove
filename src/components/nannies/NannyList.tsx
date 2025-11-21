@@ -2,23 +2,6 @@ import NannyCard from './NannyCard';
 
 const nannies = [
   {
-    name: 'Siti Nurdarenah Bte Tahier',
-    image: '/untitled_design_720.png',
-    background: {
-      label: 'Background',
-      items: ['Childcare', 'Islamic Teaching']
-    },
-    education: {
-      label: 'Education',
-      value: 'Degree in Shariah'
-    },
-    experience: {
-      label: 'Experience',
-      value: 'Personal experience as a mother'
-    },
-    zoom: false
-  },
-  {
     name: 'Siti Hajidahfaezah Binti Samsani',
     image: '/New_Nannies/Siti Hajidahfaezah Binti Samsani.jpg',
     background: {
@@ -40,21 +23,27 @@ const nannies = [
     zoom: false
   },
   {
-    name: 'Dayangku Nur Haziyah Bte PG Hj Sallehudin',
-    image: '/nanny3.jpg',
+    name: 'Nuraqilah Safwanah Binti Abdullah Mohammad Zimmy',
+    image: '/New_Nannies/Nuraqilah Safwanah.jpeg',
     background: {
       label: 'Background',
-      items: ['Childcare', 'Marketing']
+      items: ['Assistant Nurse']
     },
     education: {
       label: 'Education',
-      value: 'Higher National Diploma in Business (Marketing) from Laksamana College of Business, Brunei'
+      value: 'NTEC in Assistant Nursing'
     },
     experience: {
       label: 'Experience',
-      value: 'Hands-on experience in childcare, trained by expert team'
+      value: 'Hospital Training under Women & Children Centre'
     },
-    zoom: false
+    specialty: {
+      label: 'Specialty',
+      value: 'Taking care of newborn and children at wards'
+    },
+    zoom: true,
+    zoomLevel: 1.1,
+    objectPosition: '50% 100%'
   },
   {
     name: 'Amal Amirah Binti Mohammad Asri',
@@ -79,25 +68,6 @@ const nannies = [
     objectPosition: '50% 40%'
   },
   {
-    name: 'Nahdatulirma Nadirah Binti A. Hamidun',
-    image: '/nanny7.png',
-    background: {
-      label: 'Background',
-      items: ['Childcare', 'Healthcare', 'Child Development', 'Biomedical Science']
-    },
-    education: {
-      label: 'Education',
-      value: 'Bachelor of Health Science in Biomedical Science'
-    },
-    experience: {
-      label: 'Experience',
-      value: 'Nursing attachment at Berakas Health Centre including Child Development Centre'
-    },
-    zoom: true,
-    zoomLevel: 1.6,
-    objectPosition: '50% 40%'
-  },
-  {
     name: 'Nur Shazia Amaya Toledo Binti Abdullah',
     image: '/New_Nannies/Nur Shazia Amaya Toledo Binti Abdullah.jpg',
     background: {
@@ -118,24 +88,6 @@ const nannies = [
     },
     zoom: true,
     objectPosition: '50% 40%'
-  },
-  {
-    name: 'Siti Nurhanisah bt Hamidon',
-    image: '/siti-nurhanisah.png',
-    background: {
-      label: 'Background',
-      items: ['Childcare', 'Education', 'Islamic Studies', 'Special Education']
-    },
-    education: {
-      label: 'Education',
-      value: 'Bachelor Degree of Religious Teaching (Islamic Education)'
-    },
-    experience: {
-      label: 'Experience',
-      value: 'Minor in Special Education in Primary schools, Islamic Studies Teacher'
-    },
-    zoom: true,
-    objectPosition: '50% 25%'
   },
   {
     name: 'Tsaqifah bte Roselanzailani',
