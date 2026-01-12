@@ -90,6 +90,7 @@ export async function POST(request: Request) {
 
         return NextResponse.json({ success: true, data });
     } catch (error) {
+        console.error('Contact API Error:', error);
         return NextResponse.json(
             { error: 'Internal Server Error' },
             { status: 500 }

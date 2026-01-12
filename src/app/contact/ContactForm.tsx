@@ -68,7 +68,7 @@ export default function ContactForm() {
         <form onSubmit={handleSubmit} className="flex flex-col gap-[25px]">
             {status === 'success' && (
                 <div className="p-4 rounded-lg bg-green-50 text-green-800 border border-green-200">
-                    Thank you! Your message has been sent successfully. We'll get back to you soon.
+                    Thank you! Your message has been sent successfully. We&apos;ll get back to you soon.
                 </div>
             )}
 
