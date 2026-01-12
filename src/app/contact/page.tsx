@@ -5,6 +5,7 @@ import { cn } from '@/lib/utils';
 import Navbar from '@/components/Navbar';
 import Script from 'next/script';
 import NeedHelp from './NeedHelp';
+import ContactForm from './ContactForm';
 const poppins = Poppins({
   subsets: ['latin'],
   weight: ['300', '400', '500', '600'],
@@ -41,7 +42,7 @@ export const metadata: Metadata = {
 export default function Contact() {
   return (
     <>
-      <Script 
+      <Script
         id="contact-schema-data"
         type="application/ld+json"
         dangerouslySetInnerHTML={{
@@ -80,7 +81,7 @@ export default function Contact() {
         }}
       />
       <Navbar />
-      <main className="pt-20 min-h-screen bg-[#FFF5F5] overflow-hidden relative">                
+      <main className="pt-20 min-h-screen bg-[#FFF5F5] overflow-hidden relative">
         <div className="min-w-screen py-12 relative z-10">
           <div className="flex flex-col md:flex-row w-full">
             {/* Contact Form */}
@@ -101,7 +102,7 @@ export default function Contact() {
                 )}>
                   Get in Touch
                 </h1>
-                
+
                 <p className={cn(
                   poppins.className,
                   'text-md',
@@ -113,161 +114,17 @@ export default function Contact() {
                 )}>
                   Have questions, want to book a nanny in Brunei, or need help choosing the right caregiver? We&apos;re here to help!
                 </p>
-                
-                <form className="flex flex-col gap-[25px]">
-                  <div>
-                    <label 
-                      htmlFor="name" 
-                      className={cn(
-                        poppins.className,
-                        'block text-[18px] md:text-[20px] font-[500] text-[#2F2F2F]',
-                        'leading-[100%] tracking-[0%] mb-[10px]'
-                      )}
-                    >
-                      Full Name
-                    </label>
-                    <input
-                      type="text"
-                      id="name"
-                      name="name"
-                      className={cn(
-                        poppins.className,
-                        'w-full h-[46px]',
-                        'px-[15px] py-[8px]',
-                        'rounded-[20px]',
-                        'border-[1.5px] border-[#44AEC5]',
-                        'bg-white',
-                        'text-[14px]',
-                        'placeholder:text-[#2F2F2F]/50',
-                        'focus:outline-none focus:ring-2 focus:ring-[#44AEC5]'
-                      )}
-                      placeholder="Type your full name..."
-                      required
-                    />
-                  </div>
-                  
-                  <div>
-                    <label 
-                      htmlFor="email" 
-                      className={cn(
-                        poppins.className,
-                        'block text-[18px] md:text-[20px] font-[500] text-[#2F2F2F]',
-                        'leading-[100%] tracking-[0%] mb-[10px]'
-                      )}
-                    >
-                      Email Address
-                    </label>
-                    <input
-                      type="email"
-                      id="email"
-                      name="email"
-                      className={cn(
-                        poppins.className,
-                        'w-full h-[46px]',
-                        'px-[15px] py-[8px]',
-                        'rounded-[20px]',
-                        'border-[1.5px] border-[#44AEC5]',
-                        'bg-white',
-                        'text-[14px]',
-                        'placeholder:text-[#2F2F2F]/50',
-                        'focus:outline-none focus:ring-2 focus:ring-[#44AEC5]'
-                      )}
-                      placeholder="Type your email address..."
-                      required
-                    />
-                  </div>
-                  
-                  <div>
-                    <label 
-                      htmlFor="phone" 
-                      className={cn(
-                        poppins.className,
-                        'block text-[18px] md:text-[20px] font-[500] text-[#2F2F2F]',
-                        'leading-[100%] tracking-[0%] mb-[10px]'
-                      )}
-                    >
-                      Phone Number
-                    </label>
-                    <input
-                      type="tel"
-                      id="phone"
-                      name="phone"
-                      className={cn(
-                        poppins.className,
-                        'w-full h-[46px]',
-                        'px-[15px] py-[8px]',
-                        'rounded-[20px]',
-                        'border-[1.5px] border-[#44AEC5]',
-                        'bg-white',
-                        'text-[14px]',
-                        'placeholder:text-[#2F2F2F]/50',
-                        'focus:outline-none focus:ring-2 focus:ring-[#44AEC5]'
-                      )}
-                      placeholder="Type your phone number..."
-                      required
-                    />
-                  </div>
-                  
-                  <div>
-                    <label 
-                      htmlFor="message" 
-                      className={cn(
-                        poppins.className,
-                        'block text-[18px] md:text-[20px] font-[500] text-[#2F2F2F]',
-                        'leading-[100%] tracking-[0%] mb-[10px]'
-                      )}
-                    >
-                      Message
-                    </label>
-                    <textarea
-                      id="message"
-                      name="message"
-                      rows={5}
-                      className={cn(
-                        poppins.className,
-                        'w-full',
-                        'px-[15px] py-[8px]',
-                        'rounded-[20px]',
-                        'border-[1.5px] border-[#44AEC5]',
-                        'bg-white',
-                        'text-[14px]',
-                        'placeholder:text-[#2F2F2F]/50',
-                        'focus:outline-none focus:ring-2 focus:ring-[#44AEC5]',
-                        'resize-none'
-                      )}
-                      placeholder="Type your message..."
-                      required
-                    />
-                  </div>
-                  
-                  <button
-                    type="submit"
-                    className={cn(
-                      poppins.className,
-                      'w-full md:w-[192px] h-[56px]',
-                      'px-[32px] py-[16px]',
-                      'bg-[#44AEC5] text-white',
-                      'rounded-[100px]',
-                      'text-[16px] font-[600]',
-                      'leading-[24px] tracking-[0%]',
-                      'transition-all duration-300',
-                      'hover:bg-[#3797ac]',
-                      'focus:outline-none focus:ring-2 focus:ring-[#44AEC5]',
-                      'mx-auto md:mx-0'
-                    )}
-                  >
-                    Submit
-                  </button>
-                </form>
+
+                <ContactForm />
               </div>
             </div>
-            
+
             {/* Right side - Nanny Image - Hidden on mobile */}
             <div className="hidden md:block w-full md:w-1/2 relative z-0">
               {/* Ellipse Decoration */}
               {/* Pink Triangle Decoration - Hidden on mobile */}
               <div className="absolute right-0 hidden lg:block z-0">
-                <Image 
+                <Image
                   src="/Polygon 8.svg"
                   alt="Decorative triangle"
                   width={200}
