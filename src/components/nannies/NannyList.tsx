@@ -141,7 +141,7 @@ const nannies = [
     background: {
       label: 'Background',
       items: ['Nursing']
-    },  
+    },
     education: {
       label: 'Education',
       value: 'Bachelor of Health in Nursing'
@@ -164,7 +164,7 @@ const nannies = [
     background: {
       label: 'Background',
       items: ['Childcare', 'Healthcare', 'First Aid']
-    },  
+    },
     education: {
       label: 'Education',
       value: 'Bachelor of Halal Science'
@@ -187,7 +187,7 @@ const nannies = [
     background: {
       label: 'Background',
       items: ['Childcare', 'Business Management', 'Community Service']
-    },  
+    },
     education: {
       label: 'Education',
       value: 'Bachelor of Business Management UNISSA'
@@ -208,7 +208,7 @@ const nannies = [
     background: {
       label: 'Background',
       items: ['Tourism Management', 'Culinary Arts']
-    },  
+    },
     education: {
       label: 'Education',
       value: 'Pursuing Bachelor in International Tourism Management | Apprentice in Professional Cooking'
@@ -335,29 +335,6 @@ const nannies = [
     objectPosition: '50% 40%'
   },
   {
-    name: 'Dk Nur Hazirah Binti Pg Hassani',
-    image: '/New_Nannies/Dk Nur Hazirah Binti Pg Hassani.jpg',
-    background: {
-      label: 'Background',
-      items: ['English Major']
-    },
-    education: {
-      label: 'Education',
-      value: 'Bachelors of Arts, English Studies'
-    },
-    experience: {
-      label: 'Experience',
-      value: 'Administrative and Finance Assistant'
-    },
-    specialty: {
-      label: 'Specialty',
-      value: 'Language & Learning Support'
-    },
-    zoom: true,
-    zoomLevel: 1.1,
-    objectPosition: '50% 80%'
-  },
-  {
     name: 'Hana Humaira Binti Haji Shamsul Osmawi',
     image: '/New_Nannies/Hana Humaira Binti Haji Shamsul Osmawi.jpg',
     background: {
@@ -472,7 +449,7 @@ const nannies = [
     zoomLevel: 1.1,
     objectPosition: '50% 90%'
   },
-  
+
 ];
 
 export default function NannyList() {
@@ -483,7 +460,7 @@ export default function NannyList() {
         const isOdd = (index + 1) % 2 === 1;
         const color = isOdd ? '#F8E6E6' : '#C5E6ED';
         const circleColor = isOdd ? '#E7ADAE' : '#44AEC5';
-        
+
         return (
           <NannyCard
             key={nanny.name}
