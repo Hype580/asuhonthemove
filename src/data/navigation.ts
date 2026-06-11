@@ -15,6 +15,10 @@ export const navigationItems: NavigationItem[] = [
     href: '/about',
   },
   {
+    name: 'Our Partners',
+    href: '/partners',
+  },
+  {
     name: 'Services',
     href: '/services',
   },

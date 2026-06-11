@@ -203,27 +203,6 @@ const nannies = [
     zoom: false,
   },
   {
-    name: 'Nur Syahzani Syaziyah Suhailah Binti Zaini',
-    image: '/New_Nannies/Nur Syahzani Syaziyah Suhailah Binti Zaini.jpg',
-    background: {
-      label: 'Background',
-      items: ['Tourism Management', 'Culinary Arts']
-    },
-    education: {
-      label: 'Education',
-      value: 'Pursuing Bachelor in International Tourism Management | Apprentice in Professional Cooking'
-    },
-    experience: {
-      label: 'Experience',
-      value: 'Private personal babysitting for a family with 4 children'
-    },
-    specialty: {
-      label: 'Specialty',
-      value: 'Engaging & Fun'
-    },
-    objectPosition: '50% 50%'
-  },
-  {
     name: 'Erna Dynatasya Binti Duming',
     image: '/New_Nannies/Erna Dynatasya Binti Duming.jpg',
     background: {
@@ -287,29 +266,6 @@ const nannies = [
       value: 'An Educator'
     },
     zoom: false,
-  },
-  {
-    name: 'Filza Hazeerah Binti Norazlan',
-    image: '/New_Nannies/Filza Hazeerah Binti Norazlan.jpg',
-    background: {
-      label: 'Background',
-      items: ['Childcare', 'Special Needs Teacher']
-    },
-    education: {
-      label: 'Education',
-      value: 'Early Childhood Educator'
-    },
-    experience: {
-      label: 'Experience',
-      value: 'Daycare Teacher'
-    },
-    specialty: {
-      label: 'Specialty',
-      value: 'Montessori Directress, Nursery Caretaker'
-    },
-    zoom: true,
-    zoomLevel: 1.1,
-    objectPosition: '50% 90%'
   },
   {
     name: 'Nur Nadiah Binti Sallehkin',
@@ -449,7 +405,144 @@ const nannies = [
     zoomLevel: 1.1,
     objectPosition: '50% 90%'
   },
-
+  {
+    name: 'Lim Zhi Ying',
+    image: '/New_Nannies/Lim Zhi Ying.jpg',
+    background: {
+      label: 'Background',
+      items: ['Childcare', 'Assistant First Aid Trainer']
+    },
+    education: {
+      label: 'Education',
+      value: 'Master of Health Science in Nursing'
+    },
+    experience: {
+      label: 'Experience',
+      value: 'RIPAS Hospital & Health Centers'
+    },
+    specialty: {
+      label: 'Specialty',
+      value: 'First Aid'
+    },
+    zoom: true,
+    zoomLevel: 1.1,
+    objectPosition: '50% 70%'
+  },
+  {
+    name: 'Didi Iswanie Syahira',
+    image: '/New_Nannies/Didi Iswanie Syahira.jpg',
+    background: {
+      label: 'Background',
+      items: ["Caregiver's Assistant"]
+    },
+    education: {
+      label: 'Education',
+      value: 'Level 5 Diploma in Interior Design'
+    },
+    experience: {
+      label: 'Experience',
+      value: 'SMARTER BACA GIFT Centre'
+    },
+    specialty: {
+      label: 'Specialty',
+      value: 'Therapeutic and Educational Activities'
+    },
+    zoom: true,
+    zoomLevel: 1.1,
+    objectPosition: '50% 70%'
+  },
+  {
+    name: 'Hanisah Hannah',
+    image: '/New_Nannies/Hanisah Hannah.png',
+    background: {
+      label: 'Background',
+      items: ['Daycare', 'Youth Camps', 'Community Programmes']
+    },
+    education: {
+      label: 'Education',
+      value: 'Bachelor of Islamic Development Management'
+    },
+    experience: {
+      label: 'Experience',
+      value: 'Daycare'
+    },
+    specialty: {
+      label: 'Specialty',
+      value: 'Toddlers and Outdoor Activities'
+    },
+    zoom: true,
+    zoomLevel: 1.1,
+    objectPosition: '50% 40%'
+  },
+  {
+    name: 'Shahirah Sutiran',
+    image: '/New_Nannies/Shahirah Sutiran.jpg',
+    background: {
+      label: 'Background',
+      items: ['Islamic Educator']
+    },
+    education: {
+      label: 'Education',
+      value: "Bachelor's Degree, Minor in Bimbingan Dan Kaunseling Islam"
+    },
+    experience: {
+      label: 'Experience',
+      value: 'Teaching'
+    },
+    specialty: {
+      label: 'Specialty',
+      value: 'Islamic Value'
+    },
+    zoom: true,
+    zoomLevel: 1.1,
+    objectPosition: '50% 80%'
+  },
+  {
+    name: 'Hjh Bazlaa',
+    image: '/New_Nannies/Hjh Bazlaa.jpg',
+    background: {
+      label: 'Background',
+      items: ['Islamic Teaching']
+    },
+    education: {
+      label: 'Education',
+      value: 'Bachelor of Islamic Development Management'
+    },
+    experience: {
+      label: 'Experience',
+      value: 'Personal Babysitter'
+    },
+    specialty: {
+      label: 'Specialty',
+      value: 'Infant Care'
+    },
+    zoom: true,
+    zoomLevel: 1.1,
+    objectPosition: '50% 40%'
+  },
+  {
+    name: 'Nur Nabiilah',
+    image: '/New_Nannies/Nur Nabiilah.jpg',
+    background: {
+      label: 'Background',
+      items: ['Halal Law']
+    },
+    education: {
+      label: 'Education',
+      value: 'Master of Halal Science (Halal Laws)'
+    },
+    experience: {
+      label: 'Experience',
+      value: 'Brunei Darussalam Red Cross Society'
+    },
+    specialty: {
+      label: 'Specialty',
+      value: ''
+    },
+    zoom: true,
+    zoomLevel: 1.1,
+    objectPosition: '50% 85%'
+  },
 ];
 
 export default function NannyList() {

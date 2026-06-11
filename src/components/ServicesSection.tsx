@@ -104,8 +104,8 @@ const ServicesSection: React.FC = () => {
     },
     {
       icon: '/icons/Heart.svg',
-      title: 'Specialized Care',
-      description: 'Designed for children with specific developmental or learning needs.',
+      title: 'Care & Assistance Provider',
+      description: 'Helping families with trusted, on-demand childcare support.',
       bgColor: 'bg-[#F8E6E6]',
       iconBGColor: 'linear-gradient(323.2deg, rgba(255, 128, 128, 0.8) 14.53%, rgba(246, 204, 204, 0.8) 84.99%)',
       shadowColor: '4px 8px 20px 0px rgba(227,80,79,0.32)'
@@ -136,10 +136,9 @@ const ServicesSection: React.FC = () => {
           'text-center text-[#2F2F2F]',
           'w-full mx-auto'
         )}>
-          ASUH offers a range of <span className={cn(
-            'font-[500]'
-          )}>customizable childcare solutions</span> designed to fit the unique needs of every family. Whether you need assistance at home, specialized caregiving, or flexible options, we have the right solution for you.
-        </p>
+        ASUH connects families with trusted and trained local nannies who provide reliable and
+        flexible childcare support where available. With a focus on safety, care, and professionalism,
+         we help parents find dependable childcare solutions that fit their family&apos;s needs and lifestyle</p>
       </div>
 
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 justify-items-center mt-24 max-w-[1200px] mx-auto">

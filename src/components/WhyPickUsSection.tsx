@@ -74,7 +74,7 @@ const WhyPickUsSection: React.FC = () => {
   const features = [
     // Row 1
     {
-      title: "Expertly Trained Nannies",
+      title: "Trained Nannies",
       description: "Professionals committed to quality childcare.",
       bgColor: "bg-[#EFC8C9]",
       textOnly: true
