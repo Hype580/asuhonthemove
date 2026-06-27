@@ -34,17 +34,5 @@ export const servicesData = [
     imageSrc: '/new/Flexible Scheduling.png',
     imageAlt: 'Parent and child scheduling activities',
     variant: 'blue' as const
-  },
-  {
-    title: 'Specialized Care',
-    description: 'Every child deserves the best care.',
-    bulletPoints: [
-      'Trained caregivers for unique childcare needs',
-      'Personalized support for child learning & development',
-      'Safe and engaging care tailored to every stage'
-    ],
-    imageSrc: '/new/Specialized Care.png',
-    imageAlt: 'Specialized childcare activities',
-    variant: 'pink' as const
   }
 ]; 

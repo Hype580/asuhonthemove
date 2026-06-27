@@ -543,6 +543,72 @@ const nannies = [
     zoomLevel: 1.1,
     objectPosition: '50% 85%'
   },
+  {
+    name: 'Rosiani Junaidi',
+    image: '/New_Nannies/Rosiani Junaidi.png',
+    background: {
+      label: 'Background',
+      items: ['Caregiver']
+    },
+    education: {
+      label: 'Education',
+      value: ''
+    },
+    experience: {
+      label: 'Experience',
+      value: '1 year in caregiving'
+    },
+    specialty: {
+      label: 'Specialty',
+      value: ''
+    },
+    zoom: false,
+    objectPosition: '0% 10%'
+  },
+  {
+    name: 'Husniyah Hassani',
+    image: '/New_Nannies/Husniyah Hassani.png',
+    background: {
+      label: 'Background',
+      items: ['Law']
+    },
+    education: {
+      label: 'Education',
+      value: 'Bachelor of Law'
+    },
+    experience: {
+      label: 'Experience',
+      value: 'Daycare'
+    },
+    specialty: {
+      label: 'Specialty',
+      value: ''
+    },
+    objectPosition: '50% 30%'
+  },
+  {
+    name: 'Nurameera Jumat',
+    image: '/New_Nannies/Nurameera Jumat.png',
+    background: {
+      label: 'Background',
+      items: ['Islamic Early Childhood']
+    },
+    education: {
+      label: 'Education',
+      value: 'Degree with Minor in Early Childhood'
+    },
+    experience: {
+      label: 'Experience',
+      value: ''
+    },
+    specialty: {
+      label: 'Specialty',
+      value: ''
+    },
+    zoom: true,
+    zoomLevel: 0.96,
+    objectPosition: '50% -10%'
+  },
 ];
 
 export default function NannyList() {
