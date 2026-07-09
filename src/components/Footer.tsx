@@ -133,13 +133,23 @@ const Footer: React.FC = () => {
                 />
               </Link>
               <Link href={footerDetails.socials.whatsapp} className="flex items-center justify-center hover:opacity-80 transition-opacity p-2">
-                <Image 
-                  src="/icons/whatsapp.svg" 
-                  alt="WhatsApp" 
-                  width={36} 
+                <Image
+                  src="/icons/whatsapp.svg"
+                  alt="WhatsApp"
+                  width={36}
                   height={36}
                   className="w-[36px] h-[36px]"
                 />
+              </Link>
+            </div>
+
+            {/* Legal Links */}
+            <div className="flex justify-center mt-6">
+              <Link
+                href="/terms"
+                className={cn(typographyStyles, 'text-[14px] text-[#3E9EB3] hover:opacity-80 transition-opacity')}
+              >
+                Terms of Use
               </Link>
             </div>
           </div>

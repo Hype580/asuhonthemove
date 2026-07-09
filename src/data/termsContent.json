@@ -1,0 +1,1266 @@
+{
+  "title": "Terms of Use and Service Agreement",
+  "intro": [
+    {
+      "type": "paragraph",
+      "text": "These Terms of Use govern the use of the ASUH mobile application, website, booking platform, parent handbook, incident and accident management guide, and any childcare services requested, arranged, coordinated, or facilitated through ASUH Enterprise as a digital platform and Software-as-a-Service (SaaS) provider."
+    },
+    {
+      "type": "paragraph",
+      "text": "By creating an account, submitting a booking, making payment, using the ASUH App, or accepting these Terms, the Parent, Guardian, Client, or User confirms that they have read, understood, accepted, and agreed to be legally bound by these Terms of Use."
+    },
+    {
+      "type": "paragraph",
+      "text": "Once these Terms are accepted, the User gives consent to ASUH to operate as a digital platform that processes bookings, facilitates connection between parents and available nannies, shares necessary childcare information with assigned nannies, manages safety procedures, communicates with the User, and carries out childcare-related coordination in accordance with ASUH policies."
+    }
+  ],
+  "sections": [
+    {
+      "id": "definitions",
+      "heading": "1. Definitions",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "For the purpose of these Terms:"
+        },
+        {
+          "type": "paragraph",
+          "text": "“ASUH” refers to ASUH Enterprise, a digital childcare platform and Software-as-a-Service (SaaS) provider that facilitates childcare booking, communication, coordination, nanny matching, payment administration, service policies, SOPs, training requirements, assessment standards, screening processes, verification processes, complaint handling, and administrative support."
+        },
+        {
+          "type": "paragraph",
+          "text": "“App” or “Platform” refers to the ASUH mobile application, website, booking platform, homepage, digital parent handbook, incident and accident management guide, SaaS system, and any related digital system operated by ASUH for booking, communication, coordination, service management, reporting, and payment administration."
+        },
+        {
+          "type": "paragraph",
+          "text": "“Platform Service” refers to ASUH’s digital facilitation service, including receiving booking requests, matching or coordinating nanny availability, issuing quotations or payment instructions, sharing necessary care information, supporting communication, recording reports, and managing service-related administration. ASUH does not provide medical, therapy, transport, housekeeping, or emergency services."
+        },
+        {
+          "type": "paragraph",
+          "text": "“User” refers to any parent, guardian, client, or authorised person using the ASUH App or ASUH services."
+        },
+        {
+          "type": "paragraph",
+          "text": "“Parent” or “Guardian” refers to the person legally or practically responsible for the child receiving care."
+        },
+        {
+          "type": "paragraph",
+          "text": "“Child” refers to the child or children listed in the booking."
+        },
+        {
+          "type": "paragraph",
+          "text": "“Nanny” refers to the childcare provider registered on or arranged through the ASUH Platform, whose availability, assignment, or arrangement is facilitated by ASUH to provide childcare support to the User, subject to ASUH’s verification, screening, training requirements, assessments, SOPs, policies, and availability."
+        },
+        {
+          "type": "paragraph",
+          "text": "“Registered Nanny” or “Gig Nanny” refers to a nanny registered under the ASUH Platform as a gig-based childcare provider or independent service provider. Registration, matching, assignment, or use of the ASUH Platform does not create a direct employment relationship with ASUH unless expressly stated in writing by ASUH."
+        },
+        {
+          "type": "paragraph",
+          "text": "“Service” refers to babysitting, nanny, and childcare support requested through the ASUH Platform and facilitated, coordinated, or arranged by ASUH at the User’s preferred location, including home-based care, event care, or other suitable settings."
+        },
+        {
+          "type": "paragraph",
+          "text": "“Service Location” refers to the home, event venue, public venue, or other location selected or agreed by the User where the childcare service is provided."
+        },
+        {
+          "type": "paragraph",
+          "text": "“Confirmed Booking” refers to a booking that has been accepted by ASUH, matched with an available nanny or suitable arrangement, and paid for by the User unless ASUH expressly agrees otherwise."
+        },
+        {
+          "type": "paragraph",
+          "text": "“Additional Support Needs” refers to any behavioural, developmental, communication, sensory, medical, safety, emotional, or supervision need that may affect childcare arrangements or nanny suitability."
+        },
+        {
+          "type": "paragraph",
+          "text": "“ASUH Admin” refers to ASUH’s official administrative contact or authorised representative."
+        }
+      ]
+    },
+    {
+      "id": "acceptance-of-terms-and-consent",
+      "heading": "2. Acceptance of Terms and Consent",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "By using the ASUH App or booking ASUH services, the User confirms that:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "start": 1,
+          "items": [
+            "The User has read and agreed to these Terms of Use."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The User understands that ASUH is a digital platform and SaaS provider that connects parents or guardians with nannies and facilitates the childcare booking process."
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "start": 2,
+          "items": [
+            "The User has read or been given access to the Parent Handbook available on the App homepage.",
+            "The User understands that the Parent Handbook forms part of ASUH’s service guidelines.",
+            "The User has read or been given access to ASUH’s Incident and Accident Management guide through the App.",
+            "The User agrees to follow all booking, safety, refund, cancellation, and service policies issued by ASUH.",
+            "The User gives consent for ASUH to collect, store, process, and share relevant childcare information with assigned nannies for the purpose of providing safe childcare support.",
+            "The User accepts that ASUH may rely on the information provided by the User when arranging childcare services.",
+            "The User agrees that incomplete, inaccurate, delayed, false, or withheld information may affect nanny assignment, service safety, refund eligibility, and ASUH’s ability to provide the service.",
+            "The User agrees that ASUH may refuse, limit, stop, cancel, or reschedule service where required for safety, operational reasons, policy compliance, nanny welfare, or child welfare."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The ASUH Parent Handbook states that parents must provide accurate booking information, inform ASUH of the child’s age, needs, allergies, medical conditions, routines, prepare childcare items, ensure a safe service location, provide emergency contact details, and remain reachable during the session."
+        }
+      ]
+    },
+    {
+      "id": "nature-of-asuh-services",
+      "heading": "3. Nature of ASUH Services",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "ASUH operates as a digital platform and SaaS provider that connects parents or guardians with nannies and facilitates childcare booking, coordination, communication, reporting, and related service administration. Childcare support is provided based on the child’s routine, the parent’s instructions, nanny availability, nanny suitability, and ASUH’s service policies."
+        },
+        {
+          "type": "paragraph",
+          "text": "ASUH’s platform responsibility includes providing and maintaining service policies, training materials, assessment requirements, standard operating procedures, screening and verification processes, administrative coordination, complaint channels, and service management procedures. The individual nanny remains responsible and accountable for her own conduct, actions, omissions, care, judgement, and compliance with ASUH SOPs and parent instructions during the actual childcare session, to the fullest extent permitted by law."
+        },
+        {
+          "type": "paragraph",
+          "text": "Services facilitated through the ASUH Platform may include:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "start": 1,
+          "items": [
+            "Home-based childcare support.",
+            "Babysitting at family events or suitable external venues.",
+            "Support with feeding, diaper changing, toilet assistance, naps, play, storytelling, and child-related care.",
+            "Monitoring the child’s wellbeing during the booked session.",
+            "Providing updates to parents and ASUH Admin.",
+            "Supporting child emotional transition during first-time or difficult sessions through reasonable comfort, reassurance, and parent-provided soothing methods.",
+            "Following parent-provided house rules, restricted area instructions, visitor information, and safe childcare environment instructions where these are within ASUH’s childcare scope."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "ASUH is a digital facilitation platform and is not a medical, therapy, special education, emergency response, transport, domestic helper, elderly care, or housekeeping service. The Parent Handbook states that ASUH does not provide medical care, therapy-based care, special education intervention, elderly care, domestic helper or housekeeping services, emergency medical services, transport, driving, or school pickup services."
+        },
+        {
+          "type": "paragraph",
+          "text": "ASUH nannies are childcare providers only and are not domestic helpers, medical personnel, therapists, special education providers, drivers, security personnel, event staff, or emergency responders. Parents must not request heavy lifting, event setup, household chores unrelated to the child, transport, school pickup, guest management, or any duty outside the confirmed childcare scope."
+        },
+        {
+          "type": "paragraph",
+          "text": "For children requiring additional behavioural, developmental, communication, sensory, medical, or special support, ASUH may assess the request on a case-by-case basis based on parent guidance, nanny availability, nanny comfort, child safety, and suitability of the service location. Acceptance of a booking does not create any promise that specialist care, therapy, medical care, or special education intervention will be provided."
+        }
+      ]
+    },
+    {
+      "id": "parent-handbook-and-app-homepage",
+      "heading": "4. Parent Handbook and App Homepage",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The Parent Handbook made available on the ASUH App homepage forms part of these Terms of Use."
+        },
+        {
+          "type": "paragraph",
+          "text": "The User agrees that:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "start": 1,
+          "items": [
+            "The Parent Handbook may be updated by ASUH from time to time.",
+            "The User is responsible for reading and understanding the Parent Handbook before using the service.",
+            "The Parent Handbook explains important service guidelines, including nanny verification, parent responsibilities, nanny job scope, childcare ratio, medication policy, health and safety, right to refuse service, booking rules, refund rules, and privacy policy.",
+            "Any breach of the Parent Handbook may result in refusal, suspension, cancellation, or termination of service.",
+            "The Parent Handbook includes, among others, preparation for the nanny’s arrival, child emotional transition support, event and public venue safety, smoke-free environment, sick child and contagious illness rules, house rules, pets and visitors, privacy, CCTV, personal belongings, respectful conduct, behavioural and developmental information, and incident and accident reporting.",
+            "If there is any conflict between informal communication and these Terms or the Parent Handbook, ASUH’s written Terms, written policies, confirmed quotation, and written instructions from ASUH Admin shall prevail unless ASUH Management decides otherwise."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nanny-selection-screening-and-verification",
+      "heading": "5. Nanny Selection, Screening, and Verification",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "ASUH confirms that nannies registered under the ASUH Platform are subject to ASUH’s selection, screening, verification, training requirements, assessments, SOPs, and service policies before being assigned or matched to families."
+        },
+        {
+          "type": "paragraph",
+          "text": "ASUH’s responsibility as a Platform provider is to set reasonable childcare service standards, provide training and guidance, assess suitability where applicable, maintain SOPs and policies, perform screening and verification processes, coordinate bookings, and review concerns or complaints raised by parents or guardians."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nannies working through ASUH are gig-based childcare providers registered on the ASUH Platform. They are not direct employees of ASUH unless expressly stated in writing. Each nanny is individually responsible and accountable for her own acts, omissions, behaviour, professionalism, safety awareness, and compliance with ASUH policies during the childcare session."
+        },
+        {
+          "type": "paragraph",
+          "text": "Parents may raise any concern, complaint, incident, suspected misconduct, or safety issue directly to ASUH Admin."
+        },
+        {
+          "type": "paragraph",
+          "text": "ASUH may review the concern, request statements or evidence, communicate with the nanny and parent, and take any action ASUH considers necessary to protect the child, family, nanny, ASUH, and the integrity of the Platform."
+        },
+        {
+          "type": "paragraph",
+          "text": "If a nanny is found or reasonably suspected to have committed misconduct, negligence, dishonesty, unsafe behaviour, abuse, harassment, theft, privacy breach, breach of SOP , breach of policy, or any act that may endanger a child, family, client, or ASUH’s reputation, ASUH reserves the right to suspend, remove, blacklist, dismiss from the Platform, restrict future bookings, report to relevant authorities, cooperate with investigations, recover losses, and/or take legal action against the nanny."
+        },
+        {
+          "type": "paragraph",
+          "text": "For safety and security:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "start": 1,
+          "items": [
+            "ASUH nannies may be required to wear official ASUH identification.",
+            "Parents may verify the nanny’s identity through ASUH’s verification process.",
+            "Parents must contact ASUH Admin immediately if they have concerns about a nanny’s identity.",
+            "Parents must not allow any unauthorised person to claim to be an ASUH nanny without proper verification.",
+            "Each nanny may wear an official ASUH ID lanyard and parents may scan the QR code or follow ASUH’s verification process to view or confirm the nanny’s ASUH profile where available.",
+            "If the User allows any person to enter, collect, supervise, assist, or interact with the child without ASUH verification or approval, ASUH shall not be responsible for any act, omission, loss, injury, or issue caused by that unauthorised person."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The Parent Handbook states that ASUH nannies undergo screening, training, and verification before being assigned to families, and parents are encouraged to verify the nanny upon arrival before the session begins."
+        }
+      ]
+    },
+    {
+      "id": "safety-of-children-and-nannies",
+      "heading": "6. Safety of Children and Nannies",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The safety, wellbeing, dignity, and protection of both children and nannies are ASUH’s top priority."
+        },
+        {
+          "type": "paragraph",
+          "text": "The User agrees to ensure that:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "start": 1,
+          "items": [
+            "The childcare location is safe, clean, suitable, and free from unreasonable risk.",
+            "Dangerous items, sharp objects, medication, chemicals, unsafe equipment, hot water access, or hazardous materials are kept away from children.",
+            "The nanny is treated respectfully and professionally.",
+            "The nanny is not placed in any unsafe, threatening, inappropriate, or uncomfortable situation.",
+            "The nanny is not asked to perform work outside the agreed childcare scope.",
+            "The User remains reachable throughout the session.",
+            "Emergency contact details provided to ASUH are accurate and active.",
+            "Parents and household members do not smoke near the child, nanny, or childcare environment during the session.",
+            "Pets, visitors, workers, contractors, guests, restricted areas, and household rules are disclosed to ASUH and managed safely before and during the session.",
+            "If the service is at an event or public venue, the parent provides exact location, timing, event schedule, crowded area risks, stairs, water hazards, or any safety risks.",
+            "If the child is unwell, has symptoms of contagious illness, or has recently been exposed to contagious illness, ASUH is informed before confirmation and before the nanny attends."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "ASUH may refuse, pause, or stop service immediately if the location, request, behaviour, or situation may compromise the safety of the child, nanny, family, or ASUH personnel. The Parent Handbook allows nannies to refuse or stop service in unsafe conditions, suspicious activity, aggressive or inappropriate behaviour, incomplete medical information, requests outside childcare scope, or any situation compromising the child’s or nanny’s wellbeing."
+        },
+        {
+          "type": "paragraph",
+          "text": "ASUH may also refuse, pause, stop, reschedule, or limit the service where there is undisclosed contagious illness, unsafe smoke exposure, unsecured pets, undisclosed visitors, unsafe event or public venue risks, excessive number of children, missing childcare items, or any other matter that makes the service unsafe or outside ASUH’s childcare scope."
+        }
+      ]
+    },
+    {
+      "id": "parent-and-guardian-responsibilities",
+      "heading": "7. Parent and Guardian Responsibilities",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The User is fully responsible for providing accurate, complete, and updated information before and during each booking."
+        },
+        {
+          "type": "paragraph",
+          "text": "Parents or guardians must provide:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "start": 1,
+          "items": [
+            "Child’s full name and age.",
+            "Accurate service location.",
+            "Parent or guardian contact number.",
+            "Emergency contact number.",
+            "Allergies.",
+            "Medical conditions.",
+            "Dietary restrictions.",
+            "Medication requirements.",
+            "Behavioural, communication, or special care needs.",
+            "Child’s routine and instructions.",
+            "Any safety concern that may affect the child or nanny.",
+            "Any change to booking details.",
+            "All necessary childcare items, including milk or formula, bottles, feeding utensils, diapers, wipes, extra clothes, towels, meals, snacks, comfort items, and any child-specific items required for the session.",
+            "Information on the child’s emotional transition needs, separation anxiety, soothing methods, play preferences, sleep or nap routine, bathing routine if needed, and any special instructions.",
+            "Information about restricted areas, pets, expected visitors, household rules, CCTV use, venue hazards, crowded areas, stairs, water hazards, and any other environment-related risk.",
+            "Information before the session if the child is unwell, has symptoms of contagious illness, or has recently been exposed to contagious illness, including fever, HFMD, chickenpox, diarrhoea, vomiting, persistent cough, unexplained rash, flu-like symptoms, or eye infection.",
+            "Correct number of children requiring supervision, including any additional children who may be present during the session.",
+            "Confirmation that valuable, fragile, private, confidential, or sensitive belongings are secured before the nanny arrives."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Failure to provide accurate or complete information may result in refusal, cancellation, limitation of service, or immediate escalation to ASUH Admin."
+        },
+        {
+          "type": "paragraph",
+          "text": "ASUH shall not be held responsible for any incident, delay, misunderstanding, allergic reaction, medical concern, behavioural issue, or safety matter caused or contributed to by incomplete, inaccurate, delayed, or withheld information from the User."
+        }
+      ]
+    },
+    {
+      "id": "childcare-scope",
+      "heading": "8. Childcare Scope",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "ASUH nannies are responsible for child-related care tasks only."
+        },
+        {
+          "type": "paragraph",
+          "text": "This may include:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "start": 1,
+          "items": [
+            "Supervising the child.",
+            "Feeding and bottle preparation using parent-provided items.",
+            "Burping infants after feeding.",
+            "Diaper changing and toilet assistance.",
+            "Bathing the child, if agreed in advance.",
+            "Preparing simple child-only meals or snacks, if instructed.",
+            "Assisting with naps and sleep routines.",
+            "Supporting age-appropriate play and engagement.",
+            "Reading, storytelling, and simple learning activities.",
+            "Keeping the child’s immediate area tidy after activities.",
+            "Cleaning or organising child-related items after use.",
+            "Monitoring the child’s wellbeing.",
+            "Providing updates to parents and ASUH Admin."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The Parent Handbook confirms that ASUH nannies are responsible for child-related care tasks only and may provide updates to parents and ASUH Admin."
+        }
+      ]
+    },
+    {
+      "id": "services-nannies-will-not-provide",
+      "heading": "9. Services Nannies Will Not Provide",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Unless expressly approved in writing by ASUH Admin, nannies will not:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "start": 1,
+          "items": [
+            "Perform general house chores.",
+            "Mop, sweep, or clean the house.",
+            "Wash dishes unrelated to the child.",
+            "Do family laundry.",
+            "Cook for adults or family members.",
+            "Clean bedrooms, bathrooms, or rooms unrelated to the child.",
+            "Run errands unrelated to the child.",
+            "Care for pets.",
+            "Supervise children not listed in the booking.",
+            "Administer medication without written consent and clear instructions.",
+            "Drive children, family members, or clients.",
+            "Use personal or client vehicles for school pickup, outings, errands, or transport.",
+            "Work outside booked childcare hours without ASUH approval.",
+            "Provide therapy, medical care, special education intervention, or emergency medical services.",
+            "Perform heavy lifting, event setup, event clean-up, decoration setup, food serving for guests, guest management, crowd management, or responsibilities unrelated to childcare.",
+            "Manage workers, visitors, contractors, strangers, unrelated guests, or any person not listed in the booking.",
+            "Accept private bookings, side arrangements, direct overtime, direct payment, or future childcare arrangements outside ASUH Admin.",
+            "Care for a sick or contagious child where the illness or exposure was not disclosed before confirmation and where ASUH or the nanny reasonably believes there is a health and safety risk."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Any request outside the agreed childcare scope must be discussed directly with ASUH Admin."
+        }
+      ]
+    },
+    {
+      "id": "childcare-ratio",
+      "heading": "10. Childcare Ratio",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "ASUH may apply a nanny-to-child ratio to maintain safe care standards."
+        },
+        {
+          "type": "paragraph",
+          "text": "The User agrees that:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "start": 1,
+          "items": [
+            "Infants may require one-to-one care.",
+            "Toddlers and older children may require additional nannies depending on age, behaviour, location, event type, and safety needs.",
+            "ASUH may refuse or adjust bookings if the number of children exceeds safe care limits.",
+            "Parents must declare all children requiring care during booking.",
+            "Additional children not declared in the booking may not be accepted during the session.",
+            "Children above 7 years old are subject to ASUH’s assessment based on the child’s needs, behaviour, booking arrangement, location, and nanny suitability.",
+            "For family events, group childcare, public venues, or bookings involving more than one child, ASUH may require or recommend additional nannies to maintain safe care standards.",
+            "If the actual number, age, behaviour, or needs of children present differs from the booking information, ASUH may apply additional charges, require additional nannies, limit the service, refuse the service, or stop the service for safety reasons."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The Parent Handbook states that the standard care ratio is 1 nanny to 1 infant aged 0–12 months, and 1 nanny to 2 children aged 1–7 years."
+        }
+      ]
+    },
+    {
+      "id": "medication-allergies-and-medical-information",
+      "heading": "11. Medication, Allergies, and Medical Information",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Parents must inform ASUH and the assigned nanny of any allergy, medical condition, dietary restriction, medication need, behavioural need, communication need, or special care instruction before the session begins."
+        },
+        {
+          "type": "paragraph",
+          "text": "For medication, parents must provide:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "start": 1,
+          "items": [
+            "Written consent.",
+            "Medication name.",
+            "Correct dosage.",
+            "Timing.",
+            "Method of administration.",
+            "Medication clearly labelled with the child’s name."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Nannies will only assist with medication if clear written instructions and consent are provided. Nannies may refuse to administer or assist with medication if instructions are unclear, incomplete, unsafe, or may place the child or nanny at risk."
+        },
+        {
+          "type": "paragraph",
+          "text": "Parents are responsible for ensuring that all medication, food, milk, formula, meals, and snacks provided for the child are safe, suitable, properly labelled where necessary, not expired, and appropriate for the child’s allergies, dietary restrictions, and medical needs."
+        },
+        {
+          "type": "paragraph",
+          "text": "ASUH and the nanny may refuse to provide, administer, serve, or assist with any medication, food, milk, formula, meal, or snack that appears expired, unsuitable, unsafe, unlabelled, unclear, or inconsistent with the information provided by the parent."
+        },
+        {
+          "type": "paragraph",
+          "text": "ASUH does not provide medical assessment, diagnosis, treatment, or emergency medical care."
+        }
+      ]
+    },
+    {
+      "id": "incident-and-accident-management",
+      "heading": "12. Incident and Accident Management",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "ASUH provides an Incident and Accident Management guide in the App for child safety and service transparency."
+        },
+        {
+          "type": "paragraph",
+          "text": "The User agrees that:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "start": 1,
+          "items": [
+            "The Incident and Accident Management guide is part of ASUH’s safety procedure.",
+            "Parents must read and understand the guide before using ASUH services.",
+            "Nannies and ASUH Admin may act according to the guide if an incident, accident, illness, injury, or emergency occurs.",
+            "ASUH may contact the parent, emergency contact, ambulance, police, fire and rescue, Talian ANAK, or other relevant authority where necessary.",
+            "ASUH may document incidents through daily reports, incident reports, emergency reports, photos, written timelines, or other evidence where appropriate and lawful.",
+            "The purpose of incident documentation is safety, accountability, internal review, and communication with parents or relevant authorities."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "ASUH’s Incident and Accident Management document uses a three-level response system: Level 1 for minor incidents, Level 2 for moderate incidents, and Level 3 for major emergencies. Major emergencies include serious injury, loss of consciousness, breathing difficulty, seizure, severe bleeding, suspected fracture, choking, severe allergic reaction, or any situation where the child’s life or safety may be at risk."
+        }
+      ]
+    },
+    {
+      "id": "level-1-level-2-and-level-3-incident-response",
+      "heading": "13. Level 1, Level 2, and Level 3 Incident Response",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "ASUH may manage incidents according to the following general guide:"
+        },
+        {
+          "type": "subheading",
+          "text": "Level 1: Minor Incident"
+        },
+        {
+          "type": "paragraph",
+          "text": "Examples include small scratch, minor bump, mild crying where the child is easily comforted, small spill, or minor discomfort."
+        },
+        {
+          "type": "paragraph",
+          "text": "Actions may include:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "start": 1,
+          "items": [
+            "Reassuring and comforting the child.",
+            "Checking for signs of injury.",
+            "Applying basic care if needed.",
+            "Informing the parent.",
+            "Reporting the matter to ASUH Admin.",
+            "Recording the details in the Daily Nanny Report."
+          ]
+        },
+        {
+          "type": "subheading",
+          "text": "Level 2: Moderate Incident"
+        },
+        {
+          "type": "paragraph",
+          "text": "Examples include minor injury requiring first aid, child being very distressed, fall with swelling or bruising, minor burn, vomiting, sudden illness, or behavioural incident requiring close monitoring."
+        },
+        {
+          "type": "paragraph",
+          "text": "Actions may include:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "start": 1,
+          "items": [
+            "Stopping the activity immediately.",
+            "Assessing the child’s condition.",
+            "Performing first aid only if trained.",
+            "Informing the parent immediately.",
+            "Informing ASUH Admin immediately.",
+            "Monitoring the child closely until relieved by parent or guardian.",
+            "Completing and submitting an Incident Report."
+          ]
+        },
+        {
+          "type": "subheading",
+          "text": "Level 3: Major Emergency"
+        },
+        {
+          "type": "paragraph",
+          "text": "Examples include serious injury, loss of consciousness, breathing difficulty, seizure, severe bleeding, suspected fracture, serious burn, choking, severe allergic reaction, or any situation where the child’s life or safety may be at risk."
+        },
+        {
+          "type": "paragraph",
+          "text": "Actions may include:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "start": 1,
+          "items": [
+            "Calling 991 Ambulance immediately.",
+            "Providing first aid or CPR only if trained.",
+            "Contacting the parent immediately.",
+            "Informing ASUH Admin immediately.",
+            "Staying with the child until emergency services or the parent arrives.",
+            "Submitting a full Incident and Emergency Report with a detailed timeline and actions taken."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "This structure is based on ASUH’s uploaded Incident and Accident Management guide."
+        }
+      ]
+    },
+    {
+      "id": "emergency-escalation",
+      "heading": "14. Emergency Escalation",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The User authorises ASUH, its nannies, and ASUH Admin to take reasonable emergency action where a child’s safety, health, or wellbeing may be at risk."
+        },
+        {
+          "type": "paragraph",
+          "text": "This may include contacting:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "start": 1,
+          "items": [
+            "Parent or guardian.",
+            "Emergency contact.",
+            "Ambulance.",
+            "Police.",
+            "Fire and Rescue.",
+            "Talian ANAK.",
+            "Any relevant authority or emergency support service."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "ASUH may escalate serious concerns to relevant authorities where required for the protection of the child, nanny, or others."
+        },
+        {
+          "type": "paragraph",
+          "text": "Any medical treatment, hospital charges, ambulance charges, emergency service charges, transport-related emergency costs, or related costs remain the responsibility of the parent or guardian, unless otherwise decided by ASUH Management or required by applicable law."
+        }
+      ]
+    },
+    {
+      "id": "booking-and-confirmation",
+      "heading": "15. Booking and Confirmation",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "All bookings are subject to nanny availability."
+        },
+        {
+          "type": "paragraph",
+          "text": "A booking is only confirmed when:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "start": 1,
+          "items": [
+            "ASUH confirms or facilitates the nanny arrangement through the Platform; and",
+            "Payment has been completed, unless otherwise agreed by ASUH."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The User agrees that:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "start": 1,
+          "items": [
+            "Submitting a booking request does not guarantee nanny availability.",
+            "ASUH may reject, cancel, or reschedule a booking if no suitable nanny is available.",
+            "Last-minute or on-demand bookings are subject to availability and may be charged at different rates.",
+            "ASUH may assign, match, replace, or change a nanny where necessary for operational, safety, illness, emergency, availability, platform management, or suitability reasons.",
+            "Service charges may vary depending on booking duration, timing, location, number of children, child age group, event setting, last-minute or on-demand request, and any additional support needs.",
+            "Parents must not privately arrange childcare sessions, overtime, future bookings, direct payment, or changes directly with the nanny without informing and obtaining approval from ASUH Admin.",
+            "Parents must provide the correct number of children requiring supervision, exact service location, accurate timing, venue changes, and any special or safety information before confirmation."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The Parent Handbook states that all bookings are subject to nanny availability, and a booking is only considered confirmed once ASUH has confirmed the nanny arrangement and payment has been completed, unless otherwise agreed."
+        }
+      ]
+    },
+    {
+      "id": "nanny-assignment-and-replacement",
+      "heading": "16. Nanny Assignment and Replacement",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "ASUH will make reasonable efforts, through its digital platform and administrative process, to connect the User with a suitable nanny based on availability, location, time, child’s age, child’s needs, service type, and nanny suitability."
+        },
+        {
+          "type": "paragraph",
+          "text": "However:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "start": 1,
+          "items": [
+            "Nanny assignment, matching, or arrangement is not guaranteed until confirmed by ASUH through its authorised platform or admin channel.",
+            "The User may not insist on a specific nanny unless ASUH agrees.",
+            "ASUH may replace a nanny due to illness, emergency, safety concerns, scheduling issue, transport issue, or other unforeseen circumstances.",
+            "A replacement nanny is subject to availability and suitability.",
+            "If no replacement is available, ASUH may offer a refund, postponement, or replacement session, depending on the circumstances."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "extension-of-hours",
+      "heading": "17. Extension of Hours",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Any extension of service hours must be requested through ASUH Admin."
+        },
+        {
+          "type": "paragraph",
+          "text": "The User agrees that:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "start": 1,
+          "items": [
+            "Extensions are subject to nanny availability and ASUH approval.",
+            "Parents must not directly pressure or instruct the nanny to extend the session without ASUH approval.",
+            "Additional charges will apply for approved extensions.",
+            "If the nanny is unable to extend, the User must accept the original end time.",
+            "Unapproved extensions may be refused.",
+            "Late return by the parent or guardian may be treated as an extension and additional charges may apply according to ASUH’s current rates, provided the nanny is able to remain safely and ASUH Admin is informed.",
+            "Parents must not make private overtime arrangements, direct overtime payment, or future booking arrangements with the nanny outside ASUH Admin."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The Parent Handbook states that extensions must be requested through ASUH Admin, are subject to availability and approval, and parents should not directly request the nanny to extend without informing ASUH Admin."
+        }
+      ]
+    },
+    {
+      "id": "cancellation-replacement-and-refund-policy",
+      "heading": "18. Cancellation, Replacement, and Refund Policy",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Refunds are strictly controlled and may only be requested, reviewed, approved, and processed through ASUH Admin."
+        },
+        {
+          "type": "paragraph",
+          "text": "The User agrees that:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "start": 1,
+          "items": [
+            "Nannies are pre-assigned based on confirmed bookings.",
+            "Once a nanny has been assigned, time and manpower have been reserved.",
+            "Once a nanny has mobilised, departed, travelled, arrived, or started the session, a refund will not be given for client cancellation unless otherwise decided by ASUH Management.",
+            "Refund requests must be submitted to ASUH Admin.",
+            "Refund approval is not automatic.",
+            "Refund eligibility depends on the nature of the refund request, service status, nanny mobilisation status, booking confirmation, timing of cancellation, and ASUH Management’s decision.",
+            "ASUH reserves the right to offer a postponement or replacement session instead of a refund where appropriate.",
+            "Any approved refund may be subject to processing time, administrative review, bank processing, or deduction of applicable charges.",
+            "For avoidance of doubt, refund eligibility may be reduced or refused where the User’s act, omission, late change, inaccurate information, undisclosed illness, unsafe environment, undeclared children, non- compliance with ASUH policies, or request outside childcare scope caused or contributed to the cancellation, delay, refusal, or disruption of service."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The Parent Handbook states that if ASUH is unable to provide a confirmed nanny or suitable replacement, parents may be offered a refund, postponement of service, or replacement session, subject to availability. It also states that refunds are not applicable once the nanny has already mobilised, arrived at the location, or started the session, unless otherwise decided by ASUH Management."
+        }
+      ]
+    },
+    {
+      "id": "refunds-due-to-nanny-unavailability",
+      "heading": "19. Refunds Due to Nanny Unavailability",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A refund may be considered where:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "start": 1,
+          "items": [
+            "ASUH is unable to provide a confirmed nanny.",
+            "The assigned nanny becomes unavailable due to illness, emergency, or unforeseen circumstances.",
+            "ASUH is unable to provide a suitable replacement.",
+            "The User does not wish to postpone or accept a replacement session.",
+            "ASUH Management approves the refund."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "ASUH will try its best to arrange a suitable replacement where possible. However, replacement is subject to nanny availability and cannot be guaranteed."
+        }
+      ]
+    },
+    {
+      "id": "non-refundable-situations",
+      "heading": "20. Non-Refundable Situations",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Refunds will not be provided in the following situations unless ASUH Management decides otherwise:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "start": 1,
+          "items": [
+            "Client cancels after nanny has been pre-assigned and has already mobilised.",
+            "Client cancels when nanny is already on the way to the service location.",
+            "Client cancels after nanny has arrived.",
+            "Client cancels after the session has started.",
+            "Client provides wrong location or incomplete address.",
+            "Client is unreachable when nanny arrives.",
+            "Client fails to provide access to the service location.",
+            "Client changes the booking at the last minute and ASUH cannot accommodate the change.",
+            "Client requests duties outside the agreed childcare scope and the service is refused.",
+            "Service is stopped due to unsafe conditions, aggressive behaviour, inappropriate conduct, or risk to the child or nanny.",
+            "Parent fails to disclose important medical, allergy, behavioural, or safety information.",
+            "Child or household condition presents a risk that was not disclosed before confirmation.",
+            "Client refuses a suitable replacement without valid reason after ASUH has arranged one.",
+            "Service delay or disruption is caused by the client, location access issue, misinformation, or incomplete preparation.",
+            "Service is stopped, refused, delayed, or rescheduled because the child is unwell, has contagious symptoms, or was exposed to contagious illness and this was not disclosed before confirmation.",
+            "Service is stopped, refused, delayed, or rescheduled because the parent did not secure pets, valuables, hazards, medication, chemicals, hot water access, unsafe equipment, visitors, or restricted areas.",
+            "Service is stopped, refused, delayed, or rescheduled because additional undeclared children are present or the requested care exceeds ASUH’s safe care ratio.",
+            "Client privately arranges, changes, extends, or attempts to book directly with the nanny without ASUH Admin approval."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "client-cancellation",
+      "heading": "21. Client Cancellation",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The User must inform ASUH Admin immediately if they wish to cancel or change a booking."
+        },
+        {
+          "type": "paragraph",
+          "text": "Cancellation directly to the nanny is not valid unless confirmed by ASUH Admin."
+        },
+        {
+          "type": "paragraph",
+          "text": "ASUH reserves the right to determine whether a cancellation is refundable, partially refundable, non-refundable, replaceable, or postponable."
+        },
+        {
+          "type": "paragraph",
+          "text": "Client cancellation does not automatically entitle the User to a refund."
+        }
+      ]
+    },
+    {
+      "id": "right-to-refuse-stop-or-terminate-service",
+      "heading": "22. Right to Refuse, Stop, or Terminate Service",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "ASUH reserves the right to refuse, stop, suspend, or terminate service immediately where:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "start": 1,
+          "items": [
+            "The service location is unsafe or unsuitable.",
+            "The child’s medical or behavioural information was not disclosed.",
+            "The nanny is treated disrespectfully, threatened, harassed, or placed at risk.",
+            "The parent or any person at the location behaves aggressively or inappropriately.",
+            "The User asks the nanny to perform duties outside childcare scope.",
+            "There is suspicious activity.",
+            "There is a risk to the child, nanny, ASUH personnel, or any other person.",
+            "ASUH determines that continuing the service is unsafe or inappropriate.",
+            "The child appears unwell, has symptoms of contagious illness, or has been exposed to contagious illness and this was not disclosed before confirmation.",
+            "The parent, guardian, household member, event organiser, visitor, guest, or third party prevents the nanny from providing safe childcare.",
+            "Pets, visitors, restricted areas, household rules, venue hazards, smoking exposure, hot water access, chemicals, medication, sharp objects, or unsafe equipment create an unreasonable risk.",
+            "Additional children are present or require supervision but were not declared during booking or exceed ASUH’s safe care ratio."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "If service is refused, stopped, or terminated due to the User’s act, omission, unsafe environment, or breach of these Terms, no refund shall be due unless otherwise decided by ASUH Management."
+        },
+        {
+          "type": "paragraph",
+          "text": "ASUH also reserves the right to suspend, remove, blacklist, restrict, or terminate a nanny’s Platform access if ASUH receives a serious complaint or identifies suspected misconduct, unsafe conduct, breach of policy, breach of SOP , dishonesty, abuse, harassment, theft, privacy breach, negligence, or any behaviour that may affect child safety, family safety, nanny safety, Platform integrity, or ASUH’s reputation."
+        },
+        {
+          "type": "paragraph",
+          "text": "Where appropriate, ASUH may report nanny misconduct or suspected criminal conduct to the relevant authorities, cooperate with investigations, provide available records or reports where lawful, and take civil, disciplinary, recovery, or legal action against the nanny."
+        }
+      ]
+    },
+    {
+      "id": "special-needs-behavioural-needs-and-additional-support",
+      "heading": "23. Special Needs, Behavioural Needs, and Additional Support",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "ASUH provides general childcare support only."
+        },
+        {
+          "type": "paragraph",
+          "text": "For children requiring special attention, behavioural support, developmental support, communication support, or care related to additional needs, parents must provide full and accurate information before booking."
+        },
+        {
+          "type": "paragraph",
+          "text": "ASUH may assess:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "start": 1,
+          "items": [
+            "The child’s needs.",
+            "The nanny’s suitability.",
+            "Nanny comfort and capability.",
+            "Safety risks.",
+            "Parent instructions.",
+            "Location suitability.",
+            "Behavioural risks, aggressive behaviours, sensory sensitivities, speech delays, communication difficulties, routines, triggers, calming methods, supervision requirements, and any known safety concerns.",
+            "Whether additional nannies, closer supervision, shorter sessions, parent presence, or other reasonable precautions are required.",
+            "Whether the request remains within ASUH’s general childcare support scope and does not amount to therapy, medical care, special education intervention, clinical care, or specialist care."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "ASUH may accept or decline the booking on a case-by-case basis."
+        },
+        {
+          "type": "paragraph",
+          "text": "Acceptance of a booking does not mean ASUH provides therapy, medical care, special education intervention, or specialist care."
+        },
+        {
+          "type": "paragraph",
+          "text": "If important behavioural, developmental, medical, communication, sensory, or safety information is withheld or only disclosed after confirmation, ASUH may refuse, stop, limit, reschedule, or cancel the service, and no refund shall be due unless otherwise decided by ASUH Management."
+        }
+      ]
+    },
+    {
+      "id": "privacy-confidentiality-and-data-protection",
+      "heading": "24. Privacy, Confidentiality, and Data Protection",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "ASUH respects the privacy of families, children, nannies, and service users."
+        },
+        {
+          "type": "paragraph",
+          "text": "The User agrees that:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "start": 1,
+          "items": [
+            "Child and family information shared with ASUH will be used for childcare arrangement, safety, communication, reporting, and administration.",
+            "ASUH may share relevant childcare information with assigned nannies where necessary.",
+            "Nannies are not allowed to take photos or videos of the child, family, home, or personal belongings unless authorised by the parent and ASUH.",
+            "Parents must not share nanny personal details publicly without permission.",
+            "Parents must not record, photograph, or publish nannies without consent unless required for legitimate safety or legal reasons.",
+            "The User must not misuse ASUH’s confidential information, nanny profiles, internal procedures, or app content.",
+            "Parents may use CCTV for safety and monitoring purposes, but any recordings involving ASUH nannies must remain private and confidential and must not be shared publicly or on social media without consent, unless required for legitimate safety or legal reasons.",
+            "The User is responsible for securing valuable, fragile, private, confidential, or sensitive belongings, documents, rooms, drawers, devices, and personal items before the session begins.",
+            "ASUH and its nannies shall not be responsible for missing or damaged belongings unless there is clear evidence of negligence or misconduct.",
+            "Nannies are not authorised to access private rooms, drawers, documents, devices, accounts, or personal belongings unless required for child-related care and expressly permitted by the User."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The Parent Handbook states that child and family information shared with ASUH will be treated as confidential and used only for childcare arrangement and safety purposes."
+        },
+        {
+          "type": "paragraph",
+          "text": "ASUH collects, stores, processes, uses, and shares personal data only for legitimate childcare, platform, booking, safety, verification, communication, payment, reporting, complaint handling, incident management, emergency, legal, administrative, and service improvement purposes."
+        },
+        {
+          "type": "paragraph",
+          "text": "Personal data may include the User’s name, contact number, address or service location, booking details, payment status, child’s name, age, routine, allergies, dietary restrictions, medical information, behavioural or developmental information, emergency contacts, incident records, reports, messages, uploaded documents, photographs or videos where authorised, and any other information reasonably required to provide safe childcare support through the ASUH Platform."
+        },
+        {
+          "type": "paragraph",
+          "text": "The User gives consent for ASUH to process such personal data and to share only necessary and relevant information with assigned nannies, ASUH Admin, management, authorised personnel, emergency contacts, payment or technology service providers, professional advisers, insurers, regulators, law enforcement, child protection services, or other authorities where required for safety, legal, operational, or safeguarding reasons."
+        },
+        {
+          "type": "paragraph",
+          "text": "ASUH will take reasonable steps to keep personal data confidential, secure, and accessible only to authorised persons who need the information for childcare arrangement, platform operation, safety, reporting, complaint review, legal compliance, or service administration."
+        },
+        {
+          "type": "paragraph",
+          "text": "The User is responsible for ensuring that all personal data provided to ASUH is accurate, complete, updated, lawfully shared, and provided with the necessary authority or consent from the parent, guardian, emergency contact, or relevant person."
+        },
+        {
+          "type": "paragraph",
+          "text": "ASUH may retain booking records, childcare information, incident reports, complaint records, payment records, communication records, consent records, and safety-related documents for as long as reasonably necessary for business, safeguarding, legal, audit, insurance, dispute resolution, or regulatory purposes."
+        },
+        {
+          "type": "paragraph",
+          "text": "ASUH may delete, anonymise, archive, or restrict access to personal data when it is no longer reasonably required, subject to ASUH’s operational needs and applicable legal requirements."
+        },
+        {
+          "type": "paragraph",
+          "text": "The User must not misuse, copy, publish, transfer, screenshot, distribute, or disclose any personal data, nanny information, child information, family information, ASUH records, platform content, reports, or confidential communication obtained through the ASUH Platform or service arrangement without written permission from ASUH, unless required by law or legitimate safety reasons."
+        },
+        {
+          "type": "paragraph",
+          "text": "If the User requests correction, review, or removal of personal information, ASUH may consider the request subject to identity verification, safeguarding needs, active bookings, incident reviews, legal obligations, dispute records, and business record retention requirements."
+        },
+        {
+          "type": "paragraph",
+          "text": "Although ASUH will take reasonable data protection measures, the User accepts that no digital platform, messaging channel, internet transmission, device, or third-party system can be guaranteed to be completely secure. ASUH shall not be liable for data loss, unauthorised access, disclosure, delay, system failure, or third-party breach outside ASUH’s reasonable control, except where liability cannot be excluded under applicable law."
+        }
+      ]
+    },
+    {
+      "id": "app-content-handbook-and-digital-guides",
+      "heading": "25. App Content, Handbook, and Digital Guides",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "All content in the ASUH App, including the Parent Handbook, incident and accident management guide, nanny profiles, service descriptions, policies, booking information, pricing, and safety instructions, belongs to ASUH or is authorised for ASUH use."
+        },
+        {
+          "type": "paragraph",
+          "text": "The User must not:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "start": 1,
+          "items": [
+            "Copy, reproduce, distribute, sell, or misuse ASUH content.",
+            "Use ASUH content to create competing services.",
+            "Alter or misrepresent ASUH policies.",
+            "Share private app content publicly without ASUH’s written consent."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "user-account-and-booking-information",
+      "heading": "26. User Account and Booking Information",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The User is responsible for keeping account details, booking information, contact numbers, child information, and payment details accurate and updated."
+        },
+        {
+          "type": "paragraph",
+          "text": "ASUH is not responsible for issues caused by:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "start": 1,
+          "items": [
+            "Wrong contact details.",
+            "Wrong address.",
+            "Incomplete child information.",
+            "Missing medical or allergy information.",
+            "Inaccurate timing.",
+            "Unreachable parent or guardian.",
+            "Failure to update booking changes."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "payment",
+      "heading": "27. Payment",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The User must make payment according to ASUH’s confirmed quotation, booking rate, platform payment instruction, or approved ASUH Admin payment instruction."
+        },
+        {
+          "type": "paragraph",
+          "text": "ASUH may refuse to confirm or proceed with a booking until payment is completed, unless otherwise agreed."
+        },
+        {
+          "type": "paragraph",
+          "text": "The User agrees that additional charges may apply for:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "start": 1,
+          "items": [
+            "Extension of hours.",
+            "Last-minute or on-demand booking.",
+            "Additional children.",
+            "Event childcare.",
+            "Location-based charges.",
+            "Any other approved additional service.",
+            "Different booking arrangements, including duration, timing, location, number of children, child age group, event setting, last-minute request, on-demand request, or additional support needs may be charged differently according to ASUH’s current rates or confirmed quotation.",
+            "The User must not make private payment, side payment, overtime payment, future booking payment, or separate arrangement directly with the nanny unless expressly approved by ASUH Admin."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "limitation-of-liability",
+      "heading": "28. Limitation of Liability",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "ASUH will take reasonable steps as a digital platform and SaaS provider to facilitate safe, responsible, and professional childcare support, including platform management, booking coordination, nanny registration, screening, verification processes, training requirements, assessment standards, SOPs, policies, communication support, complaint handling, and safety-related service procedures."
+        },
+        {
+          "type": "paragraph",
+          "text": "However, the User accepts that childcare involves normal risks, including minor accidents, child behaviour changes, illness, crying, falls, bumps, allergic reactions, or unforeseen incidents."
+        },
+        {
+          "type": "paragraph",
+          "text": "To the fullest extent permitted by law, ASUH shall not be liable for any loss, injury, damage, delay, claim, cost, or expense caused by:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "start": 1,
+          "items": [
+            "Inaccurate, incomplete, or withheld information from the User.",
+            "Unsafe home or service location.",
+            "Existing medical conditions, allergies, or behavioural risks not disclosed.",
+            "Parent’s failure to provide necessary items, medication instructions, or emergency contact details.",
+            "Requests outside ASUH’s childcare scope.",
+            "Acts, omissions, or negligence of the User, household members, guests, event attendees, or third parties.",
+            "Unforeseen emergencies beyond ASUH’s reasonable control.",
+            "Events occurring before the nanny starts or after the nanny ends the session.",
+            "Items, facilities, furniture, equipment, pets, visitors, or hazards within the client’s home or chosen service location.",
+            "Missing, damaged, fragile, valuable, or private belongings not properly secured by the User before the session begins, unless there is clear evidence of negligence or misconduct by the nanny.",
+            "Illness, contagious exposure, symptoms, medical treatment, hospitalisation, ambulance use, or related costs where ASUH acted reasonably based on information available at the time.",
+            "Crowded areas, stairs, water hazards, event attendees, venue layout, third-party actions, or public venue risks during event or public venue childcare.",
+            "Emotional distress, crying, separation anxiety, refusal to cooperate, or behavioural response by the child, provided ASUH and the nanny take reasonable steps to comfort and supervise the child."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The User understands that ASUH’s role is to operate and manage the Platform, facilitate nanny matching and booking coordination, communicate service information, and apply ASUH service policies. ASUH shall not be responsible for loss, injury, delay, disruption, claim, cost, or damage caused by matters outside ASUH’s reasonable control, including User-provided information, conditions at the service location, actions of household members, guests, visitors, third parties, or events occurring outside the confirmed service scope or service hours."
+        },
+        {
+          "type": "paragraph",
+          "text": "The User understands that nannies are gig-based childcare providers registered under the ASUH Platform and are individually responsible and accountable for their own acts, omissions, conduct, care, judgement, and compliance with ASUH SOPs and parent instructions during the childcare session. ASUH’s review, training, screening, assessment, or platform registration process does not make ASUH automatically liable for every individual act, omission, misconduct, negligence, or breach committed by a nanny, except where liability cannot be excluded under applicable law."
+        },
+        {
+          "type": "paragraph",
+          "text": "Unauthorised access, disclosure, misuse, loss, delay, system failure, messaging error, third-party platform issue, device issue, internet transmission issue, or data incident outside ASUH’s reasonable control, provided ASUH has taken reasonable platform and data protection measures."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nothing in these Terms excludes liability that cannot be excluded under applicable law."
+        }
+      ]
+    },
+    {
+      "id": "indemnity",
+      "heading": "29. Indemnity",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The User agrees to indemnify and hold ASUH, its management, administrators, nannies, and authorised representatives harmless from any claim, complaint, damage, loss, cost, liability, or expense arising from:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "start": 1,
+          "items": [
+            "The User’s breach of these Terms.",
+            "False, incomplete, or inaccurate information.",
+            "Unsafe conditions at the service location.",
+            "Requests outside agreed childcare scope.",
+            "Failure to disclose medical, allergy, behavioural, or safety information.",
+            "Misuse of the App, Platform, SaaS system, booking process, nanny profiles, ASUH content, or ASUH communication channels.",
+            "Unauthorised recording, publication, or sharing of nanny or ASUH information.",
+            "Conduct by the User, household members, guests, or third parties.",
+            "Any medical treatment, ambulance, hospital, emergency, authority, or third-party costs arising during or because of the booking, unless caused by proven negligence or misconduct by ASUH as determined by ASUH Management or applicable law.",
+            "Any injury, illness, loss, damage, dispute, allegation, or complaint caused or contributed to by undisclosed risks, unsafe premises, pets, visitors, event venue hazards, smoking exposure, contagious illness, incomplete instructions, or requests outside ASUH’s childcare scope.",
+            "Any claim, complaint, damage, loss, cost, liability, or expense arising from an individual nanny’s act, omission, misconduct, dishonesty, abuse, harassment, theft, privacy breach, negligence, breach of SOP , breach of policy, or failure to follow parent instructions, except where caused by ASUH’s proven non- excludable liability under applicable law.",
+            "Any legal, authority, investigation, recovery, or administrative costs incurred by ASUH in responding to misconduct, suspected misconduct, false allegations, incomplete information, unsafe conditions, or complaints arising from the User’s booking or service location."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "updates-to-terms-and-policies",
+      "heading": "30. Updates to Terms and Policies",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "ASUH reserves the right to amend, update, replace, or revise these Terms, the Parent Handbook, incident and accident management guide, refund policy, pricing, booking process, Platform features, SaaS system, digital workflow, or any service policy at any time."
+        },
+        {
+          "type": "paragraph",
+          "text": "Updated Terms may be posted in the App, website, booking page, or communicated through ASUH Admin."
+        },
+        {
+          "type": "paragraph",
+          "text": "Continued use of ASUH services after any update means the User accepts the revised Terms."
+        }
+      ]
+    },
+    {
+      "id": "governing-law",
+      "heading": "31. Governing Law",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "These Terms shall be governed by the laws of Brunei Darussalam, unless otherwise required by applicable law."
+        },
+        {
+          "type": "paragraph",
+          "text": "Any dispute shall first be addressed through ASUH Admin and ASUH Management. ASUH reserves the right to seek legal remedy where necessary."
+        }
+      ]
+    },
+    {
+      "id": "user-declaration-and-consent",
+      "heading": "32. User Declaration and Consent",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "By clicking “I Agree”, creating an account, submitting a booking, making payment, or using ASUH services, the User declares and agrees that:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "start": 1,
+          "items": [
+            "I have read, understood, and accepted ASUH’s Terms of Use.",
+            "I have access to the Parent Handbook on the ASUH App homepage.",
+            "I have access to the Incident and Accident Management guide in the ASUH App.",
+            "I understand that ASUH is a digital platform and SaaS provider that connects parents or guardians with nannies and facilitates childcare booking, coordination, communication, payment administration, reporting, and service management.",
+            "I understand that ASUH provides platform-level responsibilities including training requirements, assessments, SOPs, policies, screening, verification, booking coordination, complaint review, and administrative service management.",
+            "I understand that nannies registered through ASUH work on a gig-based platform arrangement and are not direct employees of ASUH unless expressly stated in writing.",
+            "I understand that each nanny remains individually responsible and accountable for her own conduct, acts, omissions, care, judgement, and compliance with ASUH SOPs and parent instructions during the childcare session.",
+            "I understand that I may raise concerns or complaints directly to ASUH Admin, and that ASUH may investigate, suspend, remove, blacklist, report to authorities, recover losses, or take legal action against a nanny where misconduct or serious breach is found or reasonably suspected.",
+            "I understand that childcare support remains general childcare support only and does not include medical care, therapy, special education intervention, transport, domestic helper services, housekeeping, or emergency medical services.",
+            "I understand that all bookings are subject to nanny availability.",
+            "I understand that ASUH nannies are selected through a strict process of selection, screening, training, and verification.",
+            "I understand that the safety of children and nannies is ASUH’s top priority.",
+            "I agree to provide accurate and complete information about my child.",
+            "I agree to ensure the service location is safe and suitable.",
+            "I agree to ASUH’s refund, cancellation, replacement, and mobilisation policy.",
+            "I understand that refund requests can only be made through ASUH Admin and are subject to ASUH Management’s decision.",
+            "I understand that no refund will be given for client cancellation once the nanny has been pre-assigned and is already on the way, has arrived, or has started the session, unless otherwise decided by ASUH Management.",
+            "I give consent for ASUH to process my booking, assign a nanny, share relevant childcare information with the assigned nanny, and take reasonable safety or emergency action where necessary.",
+            "I consent to ASUH collecting, storing, processing, using, retaining, and sharing necessary personal data for booking, childcare arrangement, platform operation, safety, reporting, complaint handling, incident management, emergency, legal, administrative, and service-related purposes.",
+            "I agree to be bound by these Terms.",
+            "I understand that ASUH nannies are childcare providers only and must not be requested to perform domestic helper duties, transport duties, event setup duties, heavy lifting, errands, or responsibilities unrelated to the child listed in the booking.",
+            "I agree not to privately arrange bookings, overtime, payment, future sessions, or service changes directly with the nanny without ASUH Admin approval.",
+            "I agree to disclose any illness, contagious symptoms, allergies, medical conditions, behavioural concerns, communication needs, sensory sensitivities, special routines, pets, visitors, household rules, restricted areas, and safety risks before the session.",
+            "I understand that ASUH may refuse, stop, reschedule, limit, or cancel service without refund where information is inaccurate, incomplete, withheld, or where the environment or request is unsafe or outside ASUH scope.",
+            "I understand that any medical treatment, hospital charges, ambulance charges, authority-related charges, or other emergency-related costs remain my responsibility as parent or guardian, unless otherwise decided by ASUH Management."
+          ]
+        }
+      ]
+    }
+  ]
+}
