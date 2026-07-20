@@ -609,6 +609,139 @@ const nannies = [
     zoomLevel: 0.96,
     objectPosition: '50% -10%'
   },
+  {
+    name: 'Nurhalimatul Hanisa',
+    image: '/New_Nannies/Nurhalimatul Hanisa.png',
+    background: {
+      label: 'Background',
+      items: ['Teacher']
+    },
+    education: {
+      label: 'Education',
+      value: 'Degree with Minor in Early Childhood'
+    },
+    experience: {
+      label: 'Experience',
+      value: ''
+    },
+    specialty: {
+      label: 'Specialty',
+      value: ''
+    },
+    objectPosition: '50% 30%'
+  },
+  {
+    name: 'Wafa Watsiqah',
+    image: '/New_Nannies/Wafa Watsiqah.png',
+    background: {
+      label: 'Background',
+      items: ['Assistant Nurse']
+    },
+    education: {
+      label: 'Education',
+      value: ''
+    },
+    experience: {
+      label: 'Experience',
+      value: 'Caregiver'
+    },
+    specialty: {
+      label: 'Specialty',
+      value: ''
+    },
+    objectPosition: '50% 70%',
+    zoom: true,
+    zoomLevel: 1.3,
+  },
+  {
+    name: 'Alicia Lim',
+    image: '/New_Nannies/Alicia Lim.JPEG',
+    background: {
+      label: 'Background',
+      items: ['Childcare Experience']
+    },
+    education: {
+      label: 'Education',
+      value: 'A Level'
+    },
+    experience: {
+      label: 'Experience',
+      value: ''
+    },
+    specialty: {
+      label: 'Specialty',
+      value: ''
+    },
+    objectPosition: '50% 30%'
+  },
+  {
+    name: 'Norsyahindah Sulaiman',
+    image: '/New_Nannies/Norsyahindah Sulaiman.png',
+    background: {
+      label: 'Background',
+      items: ['Islamic Religious Teacher']
+    },
+    education: {
+      label: 'Education',
+      value: 'Ijazah Sarjana Muda Perguruan Islam'
+    },
+    experience: {
+      label: 'Experience',
+      value: ''
+    },
+    specialty: {
+      label: 'Specialty',
+      value: ''
+    },
+    objectPosition: '50% 80%',
+    zoom: true,
+    zoomLevel: 1.05,
+  },
+  {
+    name: 'Siti Nur Amalina',
+    image: '/New_Nannies/Siti Nur Amalina.jpg',
+    background: {
+      label: 'Background',
+      items: ['Nursing']
+    },
+    education: {
+      label: 'Education',
+      value: 'Bachelor of Health Science in Nursing'
+    },
+    experience: {
+      label: 'Experience',
+      value: ''
+    },
+    specialty: {
+      label: 'Specialty',
+      value: 'Daycare Experience and SMARTER'
+    },
+    objectPosition: '50% 90%',
+    zoom: true,
+    zoomLevel: 1.15,
+
+  },
+  {
+    name: 'Nur Aiman Syahirah',
+    image: '/New_Nannies/Nur Aiman Syahirah.jpg',
+    background: {
+      label: 'Background',
+      items: ['Intern at Pusat Dakwah']
+    },
+    education: {
+      label: 'Education',
+      value: 'Bachelor Of Arts In Islamic and Arabic Studies'
+    },
+    experience: {
+      label: 'Experience',
+      value: ''
+    },
+    specialty: {
+      label: 'Specialty',
+      value: ''
+    },
+    objectPosition: '50% 35%'
+  },
 ];
 
 export default function NannyList() {
