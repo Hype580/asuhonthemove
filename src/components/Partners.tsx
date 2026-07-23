@@ -12,6 +12,7 @@ const collaborativePartners = [
   { name: 'Brunei Innovation Lab', src: '/partners/Brunei Innovation Lab.png' },
   { name: 'DARE - Darussalam Enterprise', src: '/partners/DARE.png' },
   { name: 'Saving Life Resources Company', src: '/partners/Saving Life Resources Company.png' },
+  { name: 'Safefast', src: '/partners/Safefast.png' },
 ];
 
 const Partners = () => {
