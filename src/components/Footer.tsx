@@ -144,12 +144,19 @@ const Footer: React.FC = () => {
             </div>
 
             {/* Legal Links */}
-            <div className="flex justify-center mt-6">
+            <div className="flex justify-center items-center gap-4 mt-6">
               <Link
                 href="/terms"
                 className={cn(typographyStyles, 'text-[14px] text-[#3E9EB3] hover:opacity-80 transition-opacity')}
               >
                 Terms of Use
+              </Link>
+              <span className="text-[#3E9EB3]/40">|</span>
+              <Link
+                href="/privacy-policy"
+                className={cn(typographyStyles, 'text-[14px] text-[#3E9EB3] hover:opacity-80 transition-opacity')}
+              >
+                Privacy Policy
               </Link>
             </div>
           </div>

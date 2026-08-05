@@ -7,7 +7,7 @@ const poppins = Poppins({
   weight: ['300', '400', '500', '600'],
 });
 
-const bodyText = cn(
+export const termsBodyText = cn(
   poppins.className,
   'text-[15px] lg:text-[16px]',
   'font-[400]',
@@ -15,7 +15,9 @@ const bodyText = cn(
   'text-[#2F2F2F]'
 );
 
-function renderBlock(block: TermsBlock, index: number) {
+const bodyText = termsBodyText;
+
+export function renderBlock(block: TermsBlock, index: number) {
   switch (block.type) {
     case 'paragraph':
       return (
