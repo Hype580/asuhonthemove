@@ -742,6 +742,98 @@ const nannies = [
     },
     objectPosition: '50% 35%'
   },
+  {
+    name: 'Nurul Musyfa\'atul',
+    image: '/New_Nannies/Nurul Musyfaatul.png',
+    background: {
+      label: 'Background',
+      items: ['Primary English Teacher']
+    },
+    education: {
+      label: 'Education',
+      value: 'Bachelor of Arts in Sociology & Anthropology'
+    },
+    experience: {
+      label: 'Experience',
+      value: ''
+    },
+    specialty: {
+      label: 'Specialty',
+      value: ''
+    },
+    zoom: true,
+    zoomLevel: 1.3,
+    objectPosition: '50% 80%'
+  },
+  {
+    name: 'Angel Goh',
+    image: '/New_Nannies/Angel Goh.png',
+    background: {
+      label: 'Background',
+      items: ['Childcare (younger sibling since age 9)', 'Willing to learn']
+    },
+    education: {
+      label: 'Education',
+      value: 'Maktab Duli A\'Level'
+    },
+    experience: {
+      label: 'Experience',
+      value: ''
+    },
+    specialty: {
+      label: 'Specialty',
+      value: ''
+    },
+    zoom: true,
+    zoomLevel: 1.3,
+    objectPosition: '50% 50%'
+  },
+  {
+    name: 'Nur Aiman Fatihah binti Abdullatip',
+    image: '/New_Nannies/Nur Aiman Fatihah binti Abdullatip.png',
+    background: {
+      label: 'Background',
+      items: ['Mother', 'Pre-school Assistant Teacher']
+    },
+    education: {
+      label: 'Education',
+      value: 'Travel and Tourism'
+    },
+    experience: {
+      label: 'Experience',
+      value: ''
+    },
+    specialty: {
+      label: 'Specialty',
+      value: ''
+    },
+    zoom: true,
+    zoomLevel: 1.2,
+    objectPosition: '50% 55%'
+  },
+  {
+    name: 'Nur Syahirah Fitri Binti Ibrahim',
+    image: '/New_Nannies/Nur Syahirah Fitri Binti Ibrahim.png',
+    background: {
+      label: 'Background',
+      items: ['Caregiver']
+    },
+    education: {
+      label: 'Education',
+      value: 'Bachelor in Health Sciences in Nursing'
+    },
+    experience: {
+      label: 'Experience',
+      value: ''
+    },
+    specialty: {
+      label: 'Specialty',
+      value: ''
+    },
+    zoom: true,
+    zoomLevel: 1.15,
+    objectPosition: '50% 80%'
+  },
 ];
 
 export default function NannyList() {
