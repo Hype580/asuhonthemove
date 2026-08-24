@@ -834,6 +834,29 @@ const nannies = [
     zoomLevel: 1.15,
     objectPosition: '50% 80%'
   },
+  {
+    name: 'Dk Nur Amiira Pg Hj Hamni',
+    image: '/New_Nannies/Profile_Picture_Dk_Nur_Amiira_Pg_Hj_Hamni.png',
+    background: {
+      label: 'Background',
+      items: ['Clinical Placements']
+    },
+    education: {
+      label: 'Education',
+      value: 'Bachelor in Health Sciences in Nursing'
+    },
+    experience: {
+      label: 'Experience',
+      value: ''
+    },
+    specialty: {
+      label: 'Specialty',
+      value: ''
+    },
+    zoom: true,
+    zoomLevel: 1.2,
+    objectPosition: '50% 60%'
+  },
 ];
 
 export default function NannyList() {
