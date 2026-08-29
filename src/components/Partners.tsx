@@ -77,12 +77,9 @@ const Partners = () => {
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16">
         {/* Our Achievements */}
         <div className="flex flex-col items-center">
-          <h2 className={cn(poppins.className, sectionHeading, 'text-[#E7ADAE] mb-8')}>
+          <h2 className={cn(poppins.className, sectionHeading, 'text-[#E7ADAE]')}>
             Our Achievements
           </h2>
-          <p className={cn(poppins.className, 'text-[16px] lg:text-[18px] font-[600] text-[#2F2F2F] mb-4 text-center')}>
-            NatHack Cycle 3 Winner
-          </p>
           <Image
             src="/partners/NatHack Cycle 3 Winner.png"
             alt="NatHack Cycle 3 Winner"
