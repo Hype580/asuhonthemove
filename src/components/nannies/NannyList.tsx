@@ -68,28 +68,6 @@ const nannies = [
     objectPosition: '50% 40%'
   },
   {
-    name: 'Nur Shazia Amaya Toledo Binti Abdullah',
-    image: '/New_Nannies/Nur Shazia Amaya Toledo Binti Abdullah.jpg',
-    background: {
-      label: 'Background',
-      items: ['Hospitality & Customer Service']
-    },
-    education: {
-      label: 'Education',
-      value: 'Diploma in Hospitality Management'
-    },
-    experience: {
-      label: 'Experience',
-      value: ''
-    },
-    specialty: {
-      label: 'Specialty',
-      value: 'Nurturing Infant & Parenting'
-    },
-    zoom: true,
-    objectPosition: '50% 40%'
-  },
-  {
     name: 'Tsaqifah bte Roselanzailani',
     image: '/New_Nannies/Tsaqifah bte Roselanzailani.jpg',
     background: {
@@ -291,52 +269,6 @@ const nannies = [
     objectPosition: '50% 40%'
   },
   {
-    name: 'Hana Humaira Binti Haji Shamsul Osmawi',
-    image: '/New_Nannies/Hana Humaira Binti Haji Shamsul Osmawi.jpg',
-    background: {
-      label: 'Background',
-      items: ['Nursing']
-    },
-    education: {
-      label: 'Education',
-      value: 'Bachelor of Health Science in Nursing'
-    },
-    experience: {
-      label: 'Experience',
-      value: 'Maternal and Child Health Clinic'
-    },
-    specialty: {
-      label: 'Specialty',
-      value: 'Nursing Support'
-    },
-    zoom: true,
-    zoomLevel: 1.1,
-    objectPosition: '50% 90%'
-  },
-  {
-    name: 'Nur Afiqah Binti Sanoran',
-    image: '/New_Nannies/Nur Afiqah Binti Sanoran.jpg',
-    background: {
-      label: 'Background',
-      items: ['Nursing']
-    },
-    education: {
-      label: 'Education',
-      value: 'Bachelor of Health Science in Midwifery'
-    },
-    experience: {
-      label: 'Experience',
-      value: 'Maternal Child Health'
-    },
-    specialty: {
-      label: 'Specialty',
-      value: 'Midwifery Care & Infant Support'
-    },
-    zoom: true,
-    zoomLevel: 1.1,
-    objectPosition: '50% 90%'
-  },
-  {
     name: 'Munirah Binti Madeli',
     image: '/New_Nannies/Munirah Binti Madeli.jpg',
     background: {
@@ -360,29 +292,6 @@ const nannies = [
     objectPosition: '50% 90%'
   },
   {
-    name: 'Nurshafiqah Binti Husin',
-    image: '/New_Nannies/Nurshafiqah Binti Husin.jpg',
-    background: {
-      label: 'Background',
-      items: ['Teacher']
-    },
-    education: {
-      label: 'Education',
-      value: 'Higher National Diploma in Religious Teacher'
-    },
-    experience: {
-      label: 'Experience',
-      value: 'Babysitting'
-    },
-    specialty: {
-      label: 'Specialty',
-      value: 'Islamic Values & Early Learning'
-    },
-    zoom: true,
-    zoomLevel: 1.1,
-    objectPosition: '50% 80%'
-  },
-  {
     name: 'Dk Nur Haziah Binti Pg Hassani',
     image: '/New_Nannies/Dk Nur Haziah Binti Pg Hassani.jpg',
     background: {
@@ -404,29 +313,6 @@ const nannies = [
     zoom: true,
     zoomLevel: 1.1,
     objectPosition: '50% 90%'
-  },
-  {
-    name: 'Lim Zhi Ying',
-    image: '/New_Nannies/Lim Zhi Ying.jpg',
-    background: {
-      label: 'Background',
-      items: ['Childcare', 'Assistant First Aid Trainer']
-    },
-    education: {
-      label: 'Education',
-      value: 'Master of Health Science in Nursing'
-    },
-    experience: {
-      label: 'Experience',
-      value: 'RIPAS Hospital & Health Centers'
-    },
-    specialty: {
-      label: 'Specialty',
-      value: 'First Aid'
-    },
-    zoom: true,
-    zoomLevel: 1.1,
-    objectPosition: '50% 70%'
   },
   {
     name: 'Didi Iswanie Syahira',
@@ -542,28 +428,6 @@ const nannies = [
     zoom: true,
     zoomLevel: 1.1,
     objectPosition: '50% 85%'
-  },
-  {
-    name: 'Rosiani Junaidi',
-    image: '/New_Nannies/Rosiani Junaidi.png',
-    background: {
-      label: 'Background',
-      items: ['Caregiver']
-    },
-    education: {
-      label: 'Education',
-      value: ''
-    },
-    experience: {
-      label: 'Experience',
-      value: '1 year in caregiving'
-    },
-    specialty: {
-      label: 'Specialty',
-      value: ''
-    },
-    zoom: false,
-    objectPosition: '0% 10%'
   },
   {
     name: 'Husniyah Hassani',
@@ -696,30 +560,6 @@ const nannies = [
     objectPosition: '50% 80%',
     zoom: true,
     zoomLevel: 1.05,
-  },
-  {
-    name: 'Siti Nur Amalina',
-    image: '/New_Nannies/Siti Nur Amalina.jpg',
-    background: {
-      label: 'Background',
-      items: ['Nursing']
-    },
-    education: {
-      label: 'Education',
-      value: 'Bachelor of Health Science in Nursing'
-    },
-    experience: {
-      label: 'Experience',
-      value: ''
-    },
-    specialty: {
-      label: 'Specialty',
-      value: 'Daycare Experience and SMARTER'
-    },
-    objectPosition: '50% 90%',
-    zoom: true,
-    zoomLevel: 1.15,
-
   },
   {
     name: 'Nur Aiman Syahirah',
