@@ -9,7 +9,7 @@ export default function BookNanny() {
         </h2>
         
         <p className="text-gray-700 text-[14px] md:text-base lg:text-lg max-w-[800px] mb-8 md:mb-16 mx-auto">
-        We&apos;re here to support your family&apos;s needs. Whether you need part-time help or full-time care, our trusted ASUH nannies are ready to assist.
+        We&apos;re here to support your family&apos;s needs. Whether you need part-time care, our trusted ASUH nannies are ready to assist.
         </p>
         <Link 
           href="https://linktr.ee/AsuhOnTheMove.com"

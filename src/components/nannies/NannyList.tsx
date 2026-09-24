@@ -697,6 +697,121 @@ const nannies = [
     zoomLevel: 1.2,
     objectPosition: '50% 60%'
   },
+  {
+    name: 'Jazilah Binti Haji Abdul Aziz',
+    image: '/New_Nannies/Jazilah Binti Haji Abdul Aziz.jpeg',
+    background: {
+      label: 'Background',
+      items: ['Midwifery']
+    },
+    education: {
+      label: 'Education',
+      value: 'Bachelor in Health Sciences in Nursing'
+    },
+    experience: {
+      label: 'Experience',
+      value: ''
+    },
+    specialty: {
+      label: 'Specialty',
+      value: ''
+    },
+    zoom: true,
+    zoomLevel: 1,
+    objectPosition: '50% 30%'
+  },
+  {
+    name: 'Nurul Azyyati Binti Noor Mohammad Azreen',
+    image: '/New_Nannies/Nurul Azyyati Binti Noor Mohammad Azreen.png',
+    background: {
+      label: 'Background',
+      items: ['Nursing']
+    },
+    education: {
+      label: 'Education',
+      value: 'Bachelor in Health Sciences in Nursing'
+    },
+    experience: {
+      label: 'Experience',
+      value: ''
+    },
+    specialty: {
+      label: 'Specialty',
+      value: ''
+    },
+    zoom: true,
+    zoomLevel: 1.1,
+    objectPosition: '50% 60%'
+  },
+  {
+    name: 'Nurul Aisyah Syakinah binti Rodzay',
+    image: '/New_Nannies/Nurul Aisyah Syakinah binti Rodzay.png',
+    background: {
+      label: 'Background',
+      items: ['Clinical Psychology', 'Autism', 'Neuropsychology']
+    },
+    education: {
+      label: 'Education',
+      value: 'BSc (Hons) Psychology and Cognitive Neuroscience'
+    },
+    experience: {
+      label: 'Experience',
+      value: ''
+    },
+    specialty: {
+      label: 'Specialty',
+      value: ''
+    },
+    zoom: true,
+    zoomLevel: 1.2,
+    objectPosition: '50% 60%'
+  },
+  {
+    name: 'Nur Afiqah Hidayati',
+    image: '/New_Nannies/Nur Afiqah Hidayati.jpg',
+    background: {
+      label: 'Background',
+      items: ['Nursing']
+    },
+    education: {
+      label: 'Education',
+      value: 'Bachelor in Health Sciences in Nursing'
+    },
+    experience: {
+      label: 'Experience',
+      value: ''
+    },
+    specialty: {
+      label: 'Specialty',
+      value: ''
+    },
+    zoom: true,
+    zoomLevel: 1.1,
+    objectPosition: '50% 30%'
+  },
+  {
+    name: 'Mas Nur Basyirah binti Abu Bakar',
+    image: '/New_Nannies/Mas Nur Basyirah binti Abu Bakar.jpg',
+    background: {
+      label: 'Background',
+      items: ['Teacher']
+    },
+    education: {
+      label: 'Education',
+      value: 'Master of Teaching'
+    },
+    experience: {
+      label: 'Experience',
+      value: ''
+    },
+    specialty: {
+      label: 'Specialty',
+      value: ''
+    },
+    zoom: true,
+    zoomLevel: 1.1,
+    objectPosition: '50% 30%'
+  },
 ];
 
 export default function NannyList() {
