@@ -23,29 +23,6 @@ const nannies = [
     zoom: false
   },
   {
-    name: 'Nuraqilah Safwanah Binti Abdullah Mohammad Zimmy',
-    image: '/New_Nannies/Nuraqilah Safwanah.jpeg',
-    background: {
-      label: 'Background',
-      items: ['Assistant Nurse']
-    },
-    education: {
-      label: 'Education',
-      value: 'NTEC in Assistant Nursing'
-    },
-    experience: {
-      label: 'Experience',
-      value: 'Hospital Training under Women & Children Centre'
-    },
-    specialty: {
-      label: 'Specialty',
-      value: 'Taking care of newborn and children at wards'
-    },
-    zoom: true,
-    zoomLevel: 1.1,
-    objectPosition: '50% 100%'
-  },
-  {
     name: 'Amal Amirah Binti Mohammad Asri',
     image: '/New_Nannies/Amal Amirah Binti Mohammad Asri.jpg',
     background: {
@@ -65,52 +42,6 @@ const nannies = [
       value: 'Newborn Care'
     },
     zoom: true,
-    objectPosition: '50% 40%'
-  },
-  {
-    name: 'Tsaqifah bte Roselanzailani',
-    image: '/New_Nannies/Tsaqifah bte Roselanzailani.jpg',
-    background: {
-      label: 'Background',
-      items: ['Childcare & Creative Media']
-    },
-    education: {
-      label: 'Education',
-      value: 'Diploma in Creative Media'
-    },
-    experience: {
-      label: 'Experience',
-      value: 'Bright Kids Kindergarten, Clinic Assistant'
-    },
-    specialty: {
-      label: 'Specialty',
-      value: 'Certified Psychological First Aider & Child Development'
-    },
-    zoom: true,
-    zoomLevel: 1.1,
-    objectPosition: '50% 40%'
-  },
-  {
-    name: 'Sheryl Fung Yen Yuan',
-    image: '/New_Nannies/Sheryl Fung Yen Yuan.jpg',
-    background: {
-      label: 'Background',
-      items: ['Nursing']
-    },
-    education: {
-      label: 'Education',
-      value: 'Bachelor of Health Science in Nursing'
-    },
-    experience: {
-      label: 'Experience',
-      value: 'SMARTER Internship, Nursing Placement at Pediatric'
-    },
-    specialty: {
-      label: 'Specialty',
-      value: 'Child Development, Certified Pediatric First Aider'
-    },
-    zoom: true,
-    zoomLevel: 1.1,
     objectPosition: '50% 40%'
   },
   {
@@ -135,29 +66,6 @@ const nannies = [
     zoom: true,
     zoomLevel: 1.1,
     objectPosition: '50% 30%'
-  },
-  {
-    name: 'Nur Rabi\'atul Adawiah Bte Norasmadi',
-    image: '/New_Nannies/Nur Rabi.jpg',
-    background: {
-      label: 'Background',
-      items: ['Childcare', 'Healthcare', 'First Aid']
-    },
-    education: {
-      label: 'Education',
-      value: 'Bachelor of Halal Science'
-    },
-    experience: {
-      label: 'Experience',
-      value: 'Personal babysitting for 9 children & volunteering in children\'s programme'
-    },
-    specialty: {
-      label: 'Specialty',
-      value: 'Certified First Aider, Newborn Care'
-    },
-    zoom: true,
-    zoomLevel: 1.1,
-    objectPosition: '50% 80%'
   },
   {
     name: 'Nur Syifaa Syafiqah Binti Mukrin',
@@ -472,27 +380,6 @@ const nannies = [
     zoom: true,
     zoomLevel: 0.96,
     objectPosition: '50% -10%'
-  },
-  {
-    name: 'Nurhalimatul Hanisa',
-    image: '/New_Nannies/Nurhalimatul Hanisa.png',
-    background: {
-      label: 'Background',
-      items: ['Teacher']
-    },
-    education: {
-      label: 'Education',
-      value: 'Degree with Minor in Early Childhood'
-    },
-    experience: {
-      label: 'Experience',
-      value: ''
-    },
-    specialty: {
-      label: 'Specialty',
-      value: ''
-    },
-    objectPosition: '50% 30%'
   },
   {
     name: 'Wafa Watsiqah',
@@ -811,6 +698,46 @@ const nannies = [
     zoom: true,
     zoomLevel: 1.1,
     objectPosition: '50% 30%'
+  },
+  {
+    name: 'Rabiatul Atiyah Binti Haji Mahli',
+    image: '/New_Nannies/Rabiatul Atiyah Binti Haji Mahli.png',
+    background: { label: 'Background', items: ['Nurse'] },
+    education: { label: 'Education', value: 'Bachelor of Health Science in Nursing' },
+    experience: { label: 'Experience', value: '' },
+    zoom: true,
+    zoomLevel: 1.1,
+    objectPosition: '50% 30%'
+  },
+  {
+    name: 'Nur Syafiqah Syakirah Binti Haji Sahrin',
+    image: '/New_Nannies/Nur Syafiqah Syakirah Binti Haji Sahrin.png',
+    background: { label: 'Background', items: ['Caregiver'] },
+    education: { label: 'Education', value: 'School of Hospitality And Tourism' },
+    experience: { label: 'Experience', value: '' },
+    zoom: true,
+    zoomLevel: 1.3,
+    objectPosition: '50% 30%'
+  },
+  {
+    name: 'Nornazura Binti Abdullah Najli',
+    image: '/New_Nannies/Nornazura Binti Abdullah Najli.png',
+    background: { label: 'Background', items: ['Teacher'] },
+    education: { label: 'Education', value: 'Bachelor of Religious Teaching' },
+    experience: { label: 'Experience', value: '' },
+    zoom: true,
+    zoomLevel: 1.1,
+    objectPosition: '70% 30%'
+  },
+  {
+    name: 'Siti Nur Amalina binti Haji Noor Jamal',
+    image: '/New_Nannies/Siti Nur Amalina binti Haji Noor Jamal.png',
+    background: { label: 'Background', items: ['Nurse'] },
+    education: { label: 'Education', value: 'Bachelor of Health Science in Nursing' },
+    experience: { label: 'Experience', value: '' },
+    zoom: true,
+    zoomLevel: 1.3,
+    objectPosition: '50% 50%'
   },
 ];
 
