@@ -63,14 +63,8 @@ const PricingCard = ({ price, title, timeCondition, benefits, variant }: Pricing
 };
 
 export default function PricingCards() {
-  const flexiCareBenefits = [
-    "Ideal for quick errands or short breaks.",
-    "Perfect for parents with flexible schedules.",
-    "Reliable care when you need it most."
-  ];
-
-  const fullCareBenefits = [
-    "Best for full-day or extended care.",
+  const standardBenefits = [
+    "Reliable care for your everyday needs.",
     "Suitable for working parents with long hours.",
     "Consistent support for your child's daily routine."
   ];
@@ -86,24 +80,17 @@ export default function PricingCards() {
       <div className="max-w-[1200px] mx-auto flex flex-col sm:flex-row justify-center md:justify-between items-center gap-20 sm:gap-20 md:gap-16 lg:gap-20 min-h-[500px]">
         <PricingCard
           price="$6"
-          title="ASUH Flexi"
-          timeCondition="Short-term childcare solution for up to 4 hours."
-          benefits={flexiCareBenefits}
+          title="ASUH Standard"
+          timeCondition="Everyday childcare solution for your family's needs."
+          benefits={standardBenefits}
           variant="turquoise"
-        />
-        <PricingCard
-          price="$5"
-          title="ASUH Full"
-          timeCondition="Asuh Extended childcare solution for a minimum of 5 hours."
-          benefits={fullCareBenefits}
-          variant="pink"
         />
         <PricingCard
           price="$8"
           title="ASUH On-Demand"
           timeCondition="Asuh Booking Request less than 12 hours"
           benefits={onDemandBenefits}
-          variant="turquoise"
+          variant="pink"
         />
       </div>
     </div>
