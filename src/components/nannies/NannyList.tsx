@@ -154,29 +154,6 @@ const nannies = [
     zoom: false,
   },
   {
-    name: 'Nur Nadiah Binti Sallehkin',
-    image: '/New_Nannies/Nur Nadiah Binti Sallehkin.jpg',
-    background: {
-      label: 'Background',
-      items: ['Nursing']
-    },
-    education: {
-      label: 'Education',
-      value: 'Bachelor of Health Science Nursing'
-    },
-    experience: {
-      label: 'Experience',
-      value: 'Obstetrics and Gynecologic Unit in RIPASH'
-    },
-    specialty: {
-      label: 'Specialty',
-      value: 'Health-focused Care'
-    },
-    zoom: true,
-    zoomLevel: 1.1,
-    objectPosition: '50% 40%'
-  },
-  {
     name: 'Munirah Binti Madeli',
     image: '/New_Nannies/Munirah Binti Madeli.jpg',
     background: {
@@ -768,6 +745,46 @@ const nannies = [
     zoom: true,
     zoomLevel: 1,
     objectPosition: '50% 30%'
+  },
+  {
+    name: 'Nurul Ashyikin Binti Alynor',
+    image: '/New_Nannies/Nurul Ashyikin Binti Alynor.png',
+    background: { label: 'Background', items: ['Nursing'] },
+    education: { label: 'Education', value: 'Bachelor in Health Science in Nursing' },
+    experience: { label: 'Experience', value: '' },
+    zoom: true,
+    zoomLevel: 1.1,
+    objectPosition: '50% 30%'
+  },
+  {
+    name: 'Noorazizah Johari',
+    image: '/New_Nannies/Noorazizah Johari.png',
+    background: { label: 'Background', items: ['Clinic Assistant & Caregiver'] },
+    education: { label: 'Education', value: 'Diploma in Computing' },
+    experience: { label: 'Experience', value: '' },
+    zoom: true,
+    zoomLevel: 1.1,
+    objectPosition: '50% 30%'
+  },
+  {
+    name: 'Ngien Ho Lee',
+    image: '/New_Nannies/Ngien Ho Lee.jpg',
+    background: { label: 'Background', items: ['Procurement'] },
+    education: { label: 'Education', value: "BGCE O'Level" },
+    experience: { label: 'Experience', value: '' },
+    zoom: true,
+    zoomLevel: 1.1,
+    objectPosition: '50% 10%'
+  },
+  {
+    name: 'Liyana Binti Rozman Azmi',
+    image: '/New_Nannies/Liyana Binti Rozman Azmi.png',
+    background: { label: 'Background', items: ['Caregiver'] },
+    education: { label: 'Education', value: "BGCE O'Level" },
+    experience: { label: 'Experience', value: '' },
+    zoom: true,
+    zoomLevel: 1.1,
+    objectPosition: '50% 50%'
   },
 ];
 
