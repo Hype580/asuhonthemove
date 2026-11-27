@@ -780,7 +780,7 @@ const nannies = [
     name: 'Liyana Binti Rozman Azmi',
     image: '/New_Nannies/Liyana Binti Rozman Azmi.png',
     background: { label: 'Background', items: ['Caregiver'] },
-    education: { label: 'Education', value: "BGCE O'Level" },
+    education: { label: 'Education', value: 'Diploma in Graphic Design' },
     experience: { label: 'Experience', value: '' },
     zoom: true,
     zoomLevel: 1.1,
